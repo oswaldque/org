@@ -1,0 +1,1112 @@
+* Business Trip
+** Hong Kong Trip for Cosmoprof :ATTACH:
+DEADLINE: <2017-11-17 Fri> SCHEDULED: <2017-11-14 Tue>
+:PROPERTIES:
+:Attachments: CA17_PreShow_19Sept_LR.pdf
+:ID:       f9a8d8be-d1ed-4e9a-95b4-53cf9085273f
+:END:
+:LOGBOOK:
+CLOCK: [2017-10-01 Sun 19:39]--[2017-10-01 Sun 19:40] =>  0:01
+:END:
+#+DOWNLOADED: file:C%3A/Users/oque/Documents/Software/emacs/temp/screenshot.png @ 2017-09-30 09:31:46
+[[file:Business Trip/screenshot_2017-09-30_09-31-46.png]]
+*** TODO [#C] Arrange a meet with Victor                           :@Derik:
+SCHEDULED: <2017-11-01 周三>
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+* Package Team building 2017 :@JerryShen:
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-25 周一 13:27]--[2017-09-25 周一 13:54] =>  0:27
+- Note taken on [2017-09-15 周五 20:55] \\
+  Jerry initiate the team building 
+  - To the most updated schedule, it could be end of Nov, when US has its Thanks Giving
+  - About 3 days: 1 for team building, 1 day for meeting, 1 day for marketing research
+  - May not be able to fly out, but can by bullet train, in a range of 2~3 hours
+:END:
+** DONE [#C] Check with Scarlette which vendor they are using for team building :@ScarletteZheng:
+CLOSED: [2017-09-25 周一 13:48] SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 13:48] \\
+  Kilin has checked with Scarlette, and they can organize a TB out of Shanghai
+:END:
+** NEXT [#B] Check with Jerry the budget of TB                 :@JerryShen:
+   SCHEDULED: <2017-10-09 周一>
+   :PROPERTIES:
+   :CATEGORY: Agenda
+   :END:
+** NEXT [#B] Discuss with Vendor about detail agenda of TB
+DEADLINE: <2017-10-13 周五> 
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-28 周四 10:55]--[2017-09-28 周四 10:59] =>  0:04
+CLOCK: [2017-09-25 周一 14:56]--[2017-09-25 周一 15:20] =>  0:24
+:END:
+* Expense
+** TODO [#A] Make expense report every month                  :@Office:@ELC:
+SCHEDULED: <2017-10-12 周四 .+1m>
+:PROPERTIES:
+:LAST_REPEAT: [2017-09-06 周三 15:56]
+:CATEGORY: Office
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-06 周三 15:56] \\
+  No report, very few invoice
+- CLOSING NOTE [2017-08-02 周三 15:39] \\
+  20170802:6,961.03
+:END:
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-02 周三 15:39]
+:END:
+*** TODO [#A] Follow up expense approve with finance *Sun Fish*  :@Office:
+SCHEDULED: <2017-10-23 周一 .+1m>
+:PROPERTIES:
+:CATEGORY: Agenda
+:LAST_REPEAT: [2017-09-23 周六 21:49]
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-23 周六 21:49] \\
+  no expense report this month
+:END:
+CLOCK: [2017-08-23 周三 10:44]--[2017-08-23 周三 10:51] =>  0:07
+- Note taken on [2017-08-22 周二 10:10] \\
+  Contact is /Sun Fish/
+CLOCK: [2017-08-22 周二 10:09]--[2017-08-22 周二 10:43] =>  0:34
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-23 周三 16:37]
+:END:
+* Free Goods
+** FY18Q1
+*** TODO [#C] Buy 2 eyecream for Jimmy or get 2 eyecream for anti-wrink from lab :@JimmyZhang:
+SCHEDULED: <2017-10-11 周三>
+:PROPERTIES:
+:CATEGORY: Internet
+:END:
+*** WAIT [#C] Sunny to send back the shopping list       :@SunnyZai:
+DEADLINE: <2017-10-10 周二>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** WAIT [#C] LiuPing to send back the shopping list      :@LiuPing:
+DEADLINE: <2017-10-10 周二>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** WAIT [#C] Soni to send back the shopping list                   :@SoniWu:
+    DEADLINE: <2017-10-10 Tue>
+    :PROPERTIES:
+    :CATEGORY: WaitFor
+    :END:
+*** CANCELED [#C] Send list to DaXiang for the free goods :@JimmyZhang:
+CLOSED: [2017-09-30 周六 14:06] SCHEDULED: <2017-10-08 Sun>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 14:06] \\
+  he only want some eyecream
+:END:
+*** DONE [#C] Send list to Soni for the free goods                    :@Soni:
+CLOSED: [2017-10-01 Sun 15:07] SCHEDULED: <2017-09-30 周六>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 15:07] \\
+  send to ZZ mail
+:END:
+*** DONE [#C] Send list to Sunny                         :@SunnyZai:
+CLOSED: [2017-09-30 周六 14:07] SCHEDULED: <2017-10-08 周日>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 14:07]
+:END:
+*** DONE [#C] Send List to LiuPing                        :@LiuPing:
+CLOSED: [2017-09-30 周六 14:07] SCHEDULED: <2017-10-08 周日>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 14:07]
+:END:
+** WAIT [#C] LOreal Shampoo                                 :@NicholasKong:
+DEADLINE: <2017-10-20 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+* Leadship
+** NEXT [#C] Think about how to manage and build up the APAC category team :@Anywhere:
+SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Office
+:ORDERED:  t
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-20 周三 15:05] \\
+  Per the conversation with Jerry today, he will discuss the re-organization with Henry when he is in HK during Cosmoprof
+:END:
+*** TODO [#C] Think about a training plane for DocHwan
+SCHEDULED: <2017-10-01 Sun> DEADLINE: <2017-10-01 周日 -0d>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+*** TODO [#C] Discuss with Jerry about the preliminary training plan for Dochwan :@JerryShen:
+DEADLINE: <2017-10-13 周五>
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** DONE [#A] Jerry to talk with Henry about the re-organization for Category Package :@JerryShen:
+CLOSED: [2017-09-04 周一 11:30] DEADLINE: <2017-09-04 周一>
+- CLOSING NOTE [2017-09-04 周一 11:30] \\
+  has not talken with Hiroshi-san
+** PDP
+*** FY-18
+**** DONE [#A] Think about DCP                                   :@Office:
+CLOSED: [2017-08-10 周四 09:54]
+- CLOSING NOTE [2017-08-10 周四 09:54] \\
+  do this per Jing's mail and note on filofax
+**** WAIT [#C] FY18 PDP set up                                :@JerryShen:
+DEADLINE: <2017-10-12 周四 -1d> 
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** DONE [#C] Talk with Jerry about the DCP
+CLOSED: [2017-09-07 周四 16:28] SCHEDULED: <2017-09-04 周一>
+:LOGBOOK:
+- Note taken on [2017-09-15 周五 21:08] \\
+  Jerry inquiry everyone's opinion for DCP and almost everyone want to go the management way
+  including Japan and Korea team
+:END:
+* Robert's visit at end of Oct 2017
+:LOGBOOK:
+CLOCK: [2017-09-15 周五 09:19]--[2017-09-15 周五 09:30] =>  0:11
+CLOCK: [2017-09-14 周四 10:03]--[2017-09-14 周四 10:15] =>  0:12
+:END:
+** TODO [#A] Prepare a presentation for Robert                     :@Office:
+SCHEDULED: <2017-09-25 周一> DEADLINE: <2017-10-23 周一>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+*** TODO [#C] Talk about the process of propose innovative supplier :@JohnDowney:@RobertPeterson:
+    SCHEDULED: <2017-10-25 周三>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+- How to leverage JVC approach to APAC
+- How can work with exiting JVC's subtree in APAC
+- How can we avoid duplicated work
+*** TODO [#C] Talk with Robert for US tri in next few month   :@JerryShen:
+SCHEDULED: <2017-10-25 周三> DEADLINE: <2017-11-30 周四>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** DONE [#C] 3W's samples of Stone like compression [[http://www.sf-express.com/jp/sc/dynamic_functions/waybill/#search/bill-number/687826569456][687826569456]]
+CLOSED: [2017-09-22 周五 13:31] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-22 周五 13:31] \\
+  Got samples
+:END:
+*** TODO [#B] Ask question to Robert about how can we work with supplier like Yonwoo
+** China Factory Visit
+:PROPERTIES:
+:ID:       35b35716-96bd-496f-987c-42225fc52173
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-26 周二 11:25]--[2017-09-26 周二 11:54] =>  0:29
+CLOCK: [2017-09-25 周一 09:59]--[2017-09-25 周一 10:30] =>  0:31
+CLOCK: [2017-09-21 周四 15:13]--[2017-09-21 周四 15:18] =>  0:05
+CLOCK: [2017-09-21 周四 13:45]--[2017-09-21 周四 13:55] =>  0:10
+- Note taken on [2017-09-21 周四 11:46] \\
+  Have a meeting with Bruce and Ice for the itinerary
+  adding:
+  - LiFeng: Shanghai Show room
+  - BS: Wujiang factory
+  - TR: VR store
+CLOCK: [2017-09-21 周四 10:45]--[2017-09-21 周四 11:40] =>  0:55
+- Note taken on [2017-09-18 周一 08:45] \\
+  Robet mentioned device supplier as an option
+  John mentioned he has not visited TMC for a while and it could be a option
+- Note taken on [2017-09-15 周五 09:20] \\
+  Stay in Shanghai area
+:END:
+*** Beukay                                                :ATTACH:@Beukay:
+:PROPERTIES:
+:Attachments: Beukay%20FOR%20EL201909.pdf
+:ID:       e7396e4a-0087-4713-86ec-d73d5134fdef
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-15 周五 11:19] \\
+  They are available between [2017-10-30 周一]--[2017-11-01 周三]
+:END:
+**** DONE [#A] Contact Eric for a visit on end of Oct to Creative
+CLOSED: [2017-09-15 周五 11:18] SCHEDULED: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: Call
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-15 周五 11:18] \\
+  get a wechat group with Creative
+:END:
+**** DONE [#A] Creative to send me some innovation documents  :@Creative:
+CLOSED: [2017-09-21 周四 13:52] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-21 周四 10:04] \\
+  As Jerry said, they can provide some introduction of how to collabrate with local brand owners
+- Note taken on [2017-09-21 周四 10:04] \\
+  Followed up in Wechat
+CLOCK: [2017-09-21 周四 10:02]--[2017-09-21 周四 10:05] =>  0:03
+:END:
+**** DONE [#A] Show Jerry Beukay's presentation              :@JerryShen:
+CLOSED: [2017-09-21 周四 14:26] SCHEDULED: <2017-09-21 周四>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-21 周四 14:26]
+CLOCK: [2017-09-21 周四 14:13]--[2017-09-21 周四 14:26] =>  0:13
+:END:
+**** DONE [#A] Book a time with Beukay to visit their factory
+CLOSED: [2017-09-25 周一 15:49] SCHEDULED: <2017-09-21 周四>
+:PROPERTIES:
+:CATEGORY: Call
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 15:49] \\
+  discuss with Sunny @ Wechat
+:END:
+**** DONE [#A] Sunny to confirm whether I can visit Beukay the week after Oct holiday
+CLOSED: [2017-09-30 周六 10:51] DEADLINE: <2017-09-30 周六>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 10:51] \\
+  visit on <2017-10-13 周五>
+:END:
+**** TODO [#A] Visit Beukay on <2017-10-13 周五> 
+:PROPERTIES:
+:CATEGORY: Errand
+:END:
+***** TODO [#A] Check with Jerry if he will join the visit on 13th :@JerryShen:
+SCHEDULED: <2017-10-12 周四>
+:PROPERTIES:
+:CATEGORY: Agenda
+:ARCHIVE_TIME: 2017-10-03 Tue 14:00
+:ARCHIVE_FILE: ~/org/admin.org
+:ARCHIVE_OLPATH: Robert's visit at end of Oct 2017/China Factory Visit/Beukay/Visit Beukay on <2017-10-13 周五>
+:ARCHIVE_CATEGORY: Agenda
+:ARCHIVE_TODO: TODO
+:ARCHIVE_ITAGS: ATTACH @Beukay
+:END:
+
+**** Something can only share under table
+
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1720503138.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/1720503138_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/593834262.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/593834262_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/436477769.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/436477769_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/788816831.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/788816831_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1750980741.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/1750980741_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1700143564.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/1700143564_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1442133199.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/1442133199_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/512912655.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/512912655_2017-09-21_13-13-13.jpg]]
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1014612553.jpg @ 2017-09-21 13:13:13
+[[file:Robert's visit at end of Oct 2017/1014612553_2017-09-21_13-13-13.jpg]]
+*** HCT Wrapping factory :ARCHIVE:
+:LOGBOOK:
+- Note taken on [2017-09-14 周四 10:12] \\
+  The MAC Personality Compact was a wrapping compact and it should be made in HCT's wrapping factory
+:END:
+**** DONE [#A] Reach out to HCT to confirm the availability        :@HCT:
+CLOSED: [2017-09-14 周四 13:45] SCHEDULED: <2017-09-14 周四>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-14 周四 13:45] \\
+  send email
+CLOCK: [2017-09-14 周四 13:37]--[2017-09-14 周四 13:45] =>  0:08
+:END:
+**** CANCELED [#A] HCT's feedback about availability of wrapping factory :@HCT:
+CLOSED: [2017-09-15 周五 09:19] DEADLINE: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-15 周五 09:19] \\
+  They decided to stay close to Shanghai and go back to NY
+:END:
+*** Henry's design house :ARCHIVE:
+:LOGBOOK:
+- Note taken on [2017-09-23 周六 21:52] \\
+  Herny give us the presentation on <2017-09-22 周五>
+  - 他们的一个股东是三晶（三星玻璃的塑料厂）
+  - Vision是成为中国的HCT
+  - 与法尚合作。法尚专长为工业设计，PPK负责结构设计
+  - 有很多好的想法，结构设计方面，很多想法还是没有进行到单腔模具和Mockup阶段。很难想Senior Management推荐
+  - 目前的产品申请NDA比较单薄，也缺乏向上面推荐的理由
+  - 主要的目的是在他们与中国品牌的合作中获得以后我们工作发展的模式
+CLOCK: [2017-09-21 周四 09:49]--[2017-09-21 周四 09:59] =>  0:10
+:END:
+**** DONE [#A] Discuss with Jerry if we can work with a design house for innovation :@JerryShen:
+CLOSED: [2017-09-18 周一 16:48] SCHEDULED: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-18 周一 16:48] \\
+  Yes, we may have interests on that, but very small possibility
+:END:
+**** DONE [#A] Henry to advise actual time to show Jerry their ideas :@HenryZhou:
+CLOSED: [2017-09-21 周四 09:55] DEADLINE: <2017-09-20 周三>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+**** DONE [#A] Meeting reservation
+CLOSED: [2017-09-21 周四 10:06] DEADLINE: <2017-09-21 周四>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** Sunglow                                                     :@Sunglow:ATTACH:
+:PROPERTIES:
+:Attachments: 公司新技术ppt2017英文版.pptx
+:ID:       45e0fe9a-b0be-4ed4-8478-2506a5363ae0
+:END:
+**** DONE [#A] Visit Sunglow for their new factory             :@Sunglow:
+CLOSED: [2017-09-18 周一 16:51] SCHEDULED: <2017-09-18 周一 13:00-18:00>
+:PROPERTIES:
+:CATEGORY: Errand
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-18 周一 13:00]--[2017-09-18 周一 17:00] =>  4:00
+:END:
+**** Prepare Samples for Robert's visit
+:LOGBOOK:
+CLOCK: [2017-09-27 周三 14:32]--[2017-09-27 周三 15:07] =>  0:35
+:END:
+***** Nutritious Plate
+****** DONE [#C] Find out the dimension and related artwork for Sunglow :ATTACH:
+CLOSED: [2017-09-19 周二 16:09] SCHEDULED: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: Intranet
+:Attachments: DD_FY19_Nutritious_Cushion_Compact_0808.pdf
+:ID:       790c8dad-2d68-457d-8e5a-20a6fdea561c
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-19 周二 16:09]
+- Note taken on [2017-09-19 周二 16:09] \\
+  The plate on exiting RE9G compact is a domed one, while the cover is also domed
+  Plate is D 70 X 1.74 mm
+CLOCK: [2017-09-19 周二 15:57]--[2017-09-19 周二 16:09] =>  0:12
+:END:
+***** Setup Box :ATTACH:
+:PROPERTIES:
+:Attachments: 1585647.pdf
+:ID:       9adb573b-7bb5-4a10-b70b-bb0b8abb2a43
+:END:
+****** DONE [#C] Find out related artwork for La Mer
+CLOSED: [2017-09-27 周三 14:53] SCHEDULED: <2017-09-27 周三>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-27 周三 14:53] \\
+  find out Knoll's La Mer SUS 2WHL
+:END:
+***** Printed texture :ATTACH:
+:PROPERTIES:
+:Attachments: Image1.png
+:ID:       968fc335-0241-49fa-a1fc-64a407ec6547
+:END:
+****** DONE [#C] Find out some texture picture to print
+CLOSED: [2017-09-27 周三 15:05] SCHEDULED: <2017-09-27 周三>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-27 周三 15:05] \\
+  find the MAC Mineralize Skinfinish
+- CLOSING NOTE [2017-09-27 周三 14:52] \\
+  find Knoll's La Mer SUS artwork
+:END:
+**** TODO [#C] If we confirmed the visit, Give Sunglow the artworks to make sample :@JerryShen:
+SCHEDULED: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** ShyaHsin :ATTACH:
+:PROPERTIES:
+:Attachments: SHPC.pdf
+:ID:       d52e2d59-cf46-4987-a34a-9e700403afb9
+:END:
+**** DONE [#C] ShyaHsin to send several slids about their innovation 
+CLOSED: [2017-09-28 周四 16:37] DEADLINE: <2017-09-28 周四>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-28 周四 16:37]
+- Note taken on [2017-09-27 周三 14:23] \\
+  follow up @ Wechat
+:END:
+*** CANCELED [#B] Talk with someone from TRD about their VR store
+CLOSED: [2017-09-26 周二 14:06] SCHEDULED: <2017-09-26 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:06] \\
+  No need to visit TR VR store
+:END:
+
+*** DONE [#A] Firer to re-organize the innovation ideas and if we can visit their factory :@HCT:
+CLOSED: [2017-09-21 周四 10:05] DEADLINE: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-21 周四 10:05] \\
+  Fire confirmed he did not have many innovations to show us
+  He put most of his time to the factory with HCT
+:END:
+*** DONE [#A] Think about innovative supplier to visit around Shanghai area
+CLOSED: [2017-09-21 周四 15:43] SCHEDULED: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-21 周四 15:43] \\
+  1st 
+  Beukay
+  LiFung
+  TMC
+  2nd
+  TRD VR
+  Sunglow
+  BeautyStar
+CLOCK: [2017-09-15 周五 15:35]--[2017-09-15 周五 15:50] =>  0:15
+CLOCK: [2017-09-15 周五 10:51]--[2017-09-15 周五 11:21] =>  0:30
+:END:
+
+*** DONE [#A] Check with Bruce about the final decision of John's itinerary :@Bruce:
+CLOSED: [2017-09-26 周二 13:39] SCHEDULED: <2017-09-26 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 13:39] \\
+  Bruce is not in China
+:END:
+*** DONE Meeting with PPK <2017-09-22 周五 10:30-11:30>
+CLOSED: [2017-09-22 周五 13:21]
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-22 周五 13:21]
+CLOCK: [2017-09-22 周五 10:48]--[2017-09-22 周五 11:50] =>  1:02
+:END:
+*** WAIT [#B] John to confirm which supplier they want to visit in China :@JohnDowney:
+DEADLINE: <2017-10-12 周四>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** DONE [#A] Check with someone else about reference of A&H Cosmetics Shanghai
+CLOSED: [2017-09-25 周一 13:54] SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Call
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 13:54] \\
+  臻臣 is one of the biggest OEM vendor in Shanghai
+:END:
+* Routine
+** TODO [#A] Check email and arrange todo list                   :@Computer:
+SCHEDULED: <2017-10-09 Mon ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-10-01 Sun 14:38]
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+CLOCK: [2017-10-01 Sun 15:07]--[2017-10-01 Sun 15:12] =>  0:05
+CLOCK: [2017-10-01 Sun 14:39]--[2017-10-01 Sun 14:39] =>  0:00
+- CLOSING NOTE [2017-10-01 Sun 14:38]
+CLOCK: [2017-09-30 周六 14:10]--[2017-09-30 周六 14:12] =>  0:02
+CLOCK: [2017-09-30 周六 10:40]--[2017-09-30 周六 10:47] =>  0:07
+CLOCK: [2017-09-30 周六 10:38]--[2017-09-30 周六 10:39] =>  0:01
+CLOCK: [2017-09-30 周六 10:33]--[2017-09-30 周六 10:33] =>  0:00
+CLOCK: [2017-09-30 周六 10:13]--[2017-09-30 周六 10:33] =>  0:20
+CLOCK: [2017-09-30 周六 09:04]--[2017-09-30 周六 09:41] =>  0:37
+- CLOSING NOTE [2017-09-30 周六 09:04]
+CLOCK: [2017-09-29 周五 09:56]--[2017-09-29 周五 10:13] =>  0:17
+CLOCK: [2017-09-29 周五 09:51]--[2017-09-29 周五 09:51] =>  0:00
+- CLOSING NOTE [2017-09-29 周五 09:47]
+CLOCK: [2017-09-29 周五 09:47]--[2017-09-29 周五 09:47] =>  0:00
+CLOCK: [2017-09-28 周四 15:22]--[2017-09-28 周四 15:37] =>  0:15
+- CLOSING NOTE [2017-09-28 周四 14:56]
+CLOCK: [2017-09-28 周四 10:17]--[2017-09-28 周四 10:28] =>  0:11
+CLOCK: [2017-09-27 周三 15:40]--[2017-09-27 周三 15:45] =>  0:05
+CLOCK: [2017-09-27 周三 14:23]--[2017-09-27 周三 14:24] =>  0:01
+CLOCK: [2017-09-27 周三 10:46]--[2017-09-27 周三 10:57] =>  0:11
+CLOCK: [2017-09-27 周三 10:18]--[2017-09-27 周三 10:39] =>  0:21
+CLOCK: [2017-09-27 周三 09:51]--[2017-09-27 周三 09:58] =>  0:07
+CLOCK: [2017-09-27 周三 09:47]--[2017-09-27 周三 09:50] =>  0:03
+- CLOSING NOTE [2017-09-27 周三 09:47]
+CLOCK: [2017-09-26 周二 14:07]--[2017-09-26 周二 14:11] =>  0:04
+CLOCK: [2017-09-26 周二 10:34]--[2017-09-26 周二 10:34] =>  0:00
+CLOCK: [2017-09-26 周二 09:53]--[2017-09-26 周二 10:17] =>  0:24
+- CLOSING NOTE [2017-09-26 周二 09:53]
+CLOCK: [2017-09-26 周二 09:53]--[2017-09-26 周二 09:53] =>  0:00
+CLOCK: [2017-09-25 周一 17:00]--[2017-09-25 周一 17:25] =>  0:25
+CLOCK: [2017-09-25 周一 13:54]--[2017-09-25 周一 14:13] =>  0:19
+CLOCK: [2017-09-25 周一 13:18]--[2017-09-25 周一 13:27] =>  0:09
+CLOCK: [2017-09-25 周一 11:16]--[2017-09-25 周一 11:22] =>  0:06
+CLOCK: [2017-09-25 周一 10:30]--[2017-09-25 周一 10:32] =>  0:02
+CLOCK: [2017-09-25 周一 09:59]--[2017-09-25 周一 09:59] =>  0:00
+CLOCK: [2017-09-25 周一 09:31]--[2017-09-25 周一 09:59] =>  0:28
+- CLOSING NOTE [2017-09-23 周六 21:57]
+CLOCK: [2017-09-22 周五 10:28]--[2017-09-22 周五 10:45] =>  0:17
+CLOCK: [2017-09-22 周五 10:13]--[2017-09-22 周五 10:27] =>  0:14
+CLOCK: [2017-09-22 周五 09:46]--[2017-09-22 周五 09:46] =>  0:00
+CLOCK: [2017-09-22 周五 09:26]--[2017-09-22 周五 09:31] =>  0:05
+CLOCK: [2017-09-22 周五 08:53]--[2017-09-22 周五 09:24] =>  0:31
+- CLOSING NOTE [2017-09-22 周五 08:53]
+- CLOSING NOTE [2017-09-22 周五 08:53]
+CLOCK: [2017-09-22 周五 08:52]--[2017-09-22 周五 08:53] =>  0:01
+CLOCK: [2017-09-21 周四 13:59]--[2017-09-21 周四 14:03] =>  0:04
+CLOCK: [2017-09-21 周四 13:44]--[2017-09-21 周四 13:45] =>  0:01
+CLOCK: [2017-09-21 周四 10:05]--[2017-09-21 周四 10:13] =>  0:08
+CLOCK: [2017-09-21 周四 09:42]--[2017-09-21 周四 09:44] =>  0:02
+CLOCK: [2017-09-21 周四 08:59]--[2017-09-21 周四 09:28] =>  0:29
+CLOCK: [2017-09-20 周三 16:47]--[2017-09-20 周三 16:48] =>  0:01
+CLOCK: [2017-09-20 周三 16:41]--[2017-09-20 周三 16:44] =>  0:03
+CLOCK: [2017-09-20 周三 15:21]--[2017-09-20 周三 15:21] =>  0:00
+CLOCK: [2017-09-20 周三 15:02]--[2017-09-20 周三 15:06] =>  0:04
+CLOCK: [2017-09-20 周三 13:59]--[2017-09-20 周三 14:01] =>  0:02
+CLOCK: [2017-09-20 周三 13:30]--[2017-09-20 周三 13:31] =>  0:01
+CLOCK: [2017-09-20 周三 09:34]--[2017-09-20 周三 10:06] =>  0:32
+CLOCK: [2017-09-19 周二 16:46]--[2017-09-19 周二 16:51] =>  0:05
+CLOCK: [2017-09-19 周二 15:56]--[2017-09-19 周二 15:57] =>  0:01
+CLOCK: [2017-09-19 周二 13:38]--[2017-09-19 周二 13:50] =>  0:12
+CLOCK: [2017-09-19 周二 10:53]--[2017-09-19 周二 10:54] =>  0:01
+CLOCK: [2017-09-19 周二 10:38]--[2017-09-19 周二 10:38] =>  0:00
+CLOCK: [2017-09-19 周二 10:30]--[2017-09-19 周二 10:34] =>  0:04
+CLOCK: [2017-09-19 周二 10:14]--[2017-09-19 周二 10:27] =>  0:13
+CLOCK: [2017-09-19 周二 10:04]--[2017-09-19 周二 10:11] =>  0:07
+CLOCK: [2017-09-19 周二 10:00]--[2017-09-19 周二 10:02] =>  0:02
+CLOCK: [2017-09-19 周二 07:52]--[2017-09-19 周二 08:00] =>  0:08
+CLOCK: [2017-09-18 周一 17:02]--[2017-09-18 周一 17:10] =>  0:08
+CLOCK: [2017-09-18 周一 16:56]--[2017-09-18 周一 17:00] =>  0:04
+CLOCK: [2017-09-18 周一 11:35]--[2017-09-18 周一 11:42] =>  0:07
+CLOCK: [2017-09-18 周一 08:34]--[2017-09-18 周一 09:11] =>  0:37
+CLOCK: [2017-09-15 周五 15:07]--[2017-09-15 周五 15:32] =>  0:25
+CLOCK: [2017-09-15 周五 14:44]--[2017-09-15 周五 14:44] =>  0:00
+CLOCK: [2017-09-15 周五 10:50]--[2017-09-15 周五 10:51] =>  0:01
+CLOCK: [2017-09-15 周五 10:09]--[2017-09-15 周五 10:16] =>  0:07
+CLOCK: [2017-09-15 周五 09:30]--[2017-09-15 周五 09:32] =>  0:02
+CLOCK: [2017-09-15 周五 09:14]--[2017-09-15 周五 09:19] =>  0:05
+CLOCK: [2017-09-14 周四 17:18]--[2017-09-14 周四 17:18] =>  0:00
+CLOCK: [2017-09-14 周四 13:37]--[2017-09-14 周四 13:37] =>  0:00
+CLOCK: [2017-09-14 周四 11:02]--[2017-09-14 周四 11:23] =>  0:21
+CLOCK: [2017-09-14 周四 09:52]--[2017-09-14 周四 09:53] =>  0:01
+CLOCK: [2017-09-14 周四 09:11]--[2017-09-14 周四 09:17] =>  0:06
+CLOCK: [2017-09-13 周三 20:29]--[2017-09-13 周三 20:44] =>  0:15
+CLOCK: [2017-09-13 周三 14:24]--[2017-09-13 周三 14:57] =>  0:33
+CLOCK: [2017-09-12 周二 09:24]--[2017-09-12 周二 09:50] =>  0:26
+CLOCK: [2017-09-12 周二 09:12]--[2017-09-12 周二 09:13] =>  0:01
+CLOCK: [2017-09-12 周二 08:39]--[2017-09-12 周二 08:45] =>  0:06
+CLOCK: [2017-09-11 周一 14:48]--[2017-09-11 周一 14:50] =>  0:02
+CLOCK: [2017-09-11 周一 13:26]--[2017-09-11 周一 13:33] =>  0:07
+CLOCK: [2017-09-11 周一 11:45]--[2017-09-11 周一 11:55] =>  0:10
+CLOCK: [2017-09-11 周一 09:19]--[2017-09-11 周一 09:31] =>  0:12
+CLOCK: [2017-09-08 周五 15:24]--[2017-09-08 周五 15:26] =>  0:02
+CLOCK: [2017-09-08 周五 13:49]--[2017-09-08 周五 14:01] =>  0:12
+CLOCK: [2017-09-08 周五 13:32]--[2017-09-08 周五 13:35] =>  0:03
+CLOCK: [2017-09-08 周五 11:00]--[2017-09-08 周五 11:35] =>  0:35
+CLOCK: [2017-09-08 周五 10:14]--[2017-09-08 周五 11:00] =>  0:46
+CLOCK: [2017-09-08 周五 09:52]--[2017-09-08 周五 09:59] =>  0:07
+CLOCK: [2017-09-08 周五 09:47]--[2017-09-08 周五 09:48] =>  0:01
+CLOCK: [2017-09-07 周四 15:54]--[2017-09-07 周四 16:05] =>  0:11
+CLOCK: [2017-09-07 周四 14:11]--[2017-09-07 周四 14:13] =>  0:02
+CLOCK: [2017-09-07 周四 13:32]--[2017-09-07 周四 14:11] =>  0:39
+CLOCK: [2017-09-07 周四 09:50]--[2017-09-07 周四 09:56] =>  0:06
+CLOCK: [2017-09-07 周四 09:26]--[2017-09-07 周四 09:39] =>  0:13
+CLOCK: [2017-09-06 周三 15:57]--[2017-09-06 周三 16:06] =>  0:09
+CLOCK: [2017-09-06 周三 14:56]--[2017-09-06 周三 15:11] =>  0:15
+CLOCK: [2017-09-06 周三 11:03]--[2017-09-06 周三 11:43] =>  0:40
+CLOCK: [2017-09-06 周三 10:45]--[2017-09-06 周三 10:49] =>  0:04
+CLOCK: [2017-09-06 周三 09:32]--[2017-09-06 周三 09:33] =>  0:01
+CLOCK: [2017-09-05 周二 20:16]--[2017-09-05 周二 20:17] =>  0:01
+CLOCK: [2017-09-05 周二 20:02]--[2017-09-05 周二 20:04] =>  0:02
+CLOCK: [2017-09-05 周二 13:36]--[2017-09-05 周二 13:54] =>  0:18
+CLOCK: [2017-09-05 周二 09:22]--[2017-09-05 周二 09:57] =>  0:35
+CLOCK: [2017-09-04 周一 15:56]--[2017-09-04 周一 16:22] =>  0:26
+CLOCK: [2017-09-04 周一 15:49]--[2017-09-04 周一 15:55] =>  0:06
+CLOCK: [2017-09-04 周一 14:30]--[2017-09-04 周一 15:25] =>  0:55
+CLOCK: [2017-09-04 周一 13:35]--[2017-09-04 周一 13:38] =>  0:03
+CLOCK: [2017-09-04 周一 11:29]--[2017-09-04 周一 11:41] =>  0:12
+CLOCK: [2017-09-04 周一 10:32]--[2017-09-04 周一 10:33] =>  0:01
+CLOCK: [2017-09-04 周一 10:18]--[2017-09-04 周一 10:22] =>  0:04
+CLOCK: [2017-09-04 周一 10:10]--[2017-09-04 周一 10:11] =>  0:01
+CLOCK: [2017-09-04 周一 10:06]--[2017-09-04 周一 10:08] =>  0:02
+CLOCK: [2017-09-04 周一 09:36]--[2017-09-04 周一 09:50] =>  0:14
+CLOCK: [2017-09-04 周一 08:58]--[2017-09-04 周一 09:13] =>  0:15
+CLOCK: [2017-09-04 周一 08:54]--[2017-09-04 周一 08:57] =>  0:03
+CLOCK: [2017-09-01 周五 10:11]--[2017-09-01 周五 10:54] =>  0:43
+CLOCK: [2017-08-31 周四 15:24]--[2017-08-31 周四 15:31] =>  0:07
+CLOCK: [2017-08-31 周四 15:14]--[2017-08-31 周四 15:20] =>  0:06
+CLOCK: [2017-08-11 周五 09:15]--[2017-08-11 周五 09:49] =>  0:34
+CLOCK: [2017-08-11 周五 10:02]--[2017-08-11 周五 10:10] =>  0:08
+CLOCK: [2017-08-11 周五 10:22]--[2017-08-11 周五 10:31] =>  0:09
+CLOCK: [2017-08-11 周五 13:38]--[2017-08-11 周五 13:45] =>  0:07
+CLOCK: [2017-08-11 周五 14:30]--[2017-08-11 周五 14:32] =>  0:02
+CLOCK: [2017-08-11 周五 14:39]--[2017-08-11 周五 14:40] =>  0:01
+CLOCK: [2017-08-11 周五 15:02]--[2017-08-11 周五 15:06] =>  0:04
+CLOCK: [2017-08-14 周一 09:19]--[2017-08-14 周一 09:29] =>  0:10
+CLOCK: [2017-08-14 周一 09:45]--[2017-08-14 周一 10:03] =>  0:18
+CLOCK: [2017-08-14 周一 11:22]--[2017-08-14 周一 11:23] =>  0:01
+CLOCK: [2017-08-15 周二 10:09]--[2017-08-15 周二 10:27] =>  0:18
+CLOCK: [2017-08-15 周二 10:50]--[2017-08-15 周二 11:21] =>  0:31
+CLOCK: [2017-08-17 周四 11:20]--[2017-08-17 周四 11:55] =>  0:35
+CLOCK: [2017-08-17 周四 13:22]--[2017-08-17 周四 13:25] =>  0:03
+CLOCK: [2017-08-17 周四 14:20]--[2017-08-17 周四 14:51] =>  0:31
+CLOCK: [2017-08-17 周四 16:02]--[2017-08-17 周四 16:03] =>  0:01
+CLOCK: [2017-08-18 周五 09:34]--[2017-08-18 周五 09:35] =>  0:01
+CLOCK: [2017-08-18 周五 09:45]--[2017-08-18 周五 10:24] =>  0:39
+CLOCK: [2017-08-18 周五 10:43]--[2017-08-18 周五 10:44] =>  0:01
+CLOCK: [2017-08-19 周六 17:15]--[2017-08-19 周六 17:42] =>  0:27
+CLOCK: [2017-08-21 周一 19:46]--[2017-08-21 周一 19:47] =>  0:01
+CLOCK: [2017-08-21 周一 19:47]--[2017-08-21 周一 19:54] =>  0:07
+CLOCK: [2017-08-21 周一 19:54]--[2017-08-21 周一 19:58] =>  0:04
+CLOCK: [2017-08-21 周一 20:00]--[2017-08-21 周一 20:24] =>  0:24
+CLOCK: [2017-08-22 周二 09:33]--[2017-08-22 周二 09:45] =>  0:12
+CLOCK: [2017-08-22 周二 14:43]--[2017-08-22 周二 14:57] =>  0:14
+CLOCK: [2017-08-22 周二 15:13]--[2017-08-22 周二 15:29] =>  0:16
+CLOCK: [2017-08-23 周三 09:35]--[2017-08-23 周三 09:54] =>  0:19
+CLOCK: [2017-08-23 周三 10:29]--[2017-08-23 周三 10:36] =>  0:07
+CLOCK: [2017-08-23 周三 10:52]--[2017-08-23 周三 11:01] =>  0:09
+CLOCK: [2017-08-23 周三 11:03]--[2017-08-23 周三 11:16] =>  0:13
+CLOCK: [2017-08-23 周三 11:25]--[2017-08-23 周三 11:27] =>  0:02
+CLOCK: [2017-08-23 周三 16:23]--[2017-08-23 周三 16:41] =>  0:18
+CLOCK: [2017-08-28 周一 09:25]--[2017-08-28 周一 10:26] =>  1:01
+CLOCK: [2017-08-28 周一 10:32]--[2017-08-28 周一 10:52] =>  0:20
+CLOCK: [2017-08-28 周一 11:11]--[2017-08-28 周一 11:15] =>  0:04
+CLOCK: [2017-08-28 周一 11:41]--[2017-08-28 周一 11:47] =>  0:06
+CLOCK: [2017-08-28 周一 13:33]--[2017-08-28 周一 13:43] =>  0:10
+CLOCK: [2017-08-28 周一 15:25]--[2017-08-28 周一 15:33] =>  0:08
+CLOCK: [2017-08-29 周二 09:44]--[2017-08-29 周二 10:07] =>  0:23
+CLOCK: [2017-08-29 周二 11:36]--[2017-08-29 周二 11:44] =>  0:08
+CLOCK: [2017-08-29 周二 13:33]--[2017-08-29 周二 13:33] =>  0:00
+CLOCK: [2017-08-29 周二 14:05]--[2017-08-29 周二 14:11] =>  0:06
+CLOCK: [2017-08-29 周二 14:13]--[2017-08-29 周二 14:22] =>  0:09
+CLOCK: [2017-08-29 周二 14:30]--[2017-08-29 周二 14:32] =>  0:02
+CLOCK: [2017-08-29 周二 15:16]--[2017-08-29 周二 15:16] =>  0:00
+CLOCK: [2017-08-30 周三 10:41]--[2017-08-30 周三 10:50] =>  0:09
+CLOCK: [2017-08-30 周三 10:55]--[2017-08-30 周三 11:40] =>  0:45
+CLOCK: [2017-08-30 周三 13:38]--[2017-08-30 周三 13:38] =>  0:00
+CLOCK: [2017-08-30 周三 13:49]--[2017-08-30 周三 13:51] =>  0:02
+CLOCK: [2017-08-31 周四 09:55]--[2017-08-31 周四 10:23] =>  0:28
+CLOCK: [2017-08-31 周四 10:39]--[2017-08-31 周四 10:42] =>  0:03
+CLOCK: [2017-08-31 周四 10:44]--[2017-08-31 周四 10:45] =>  0:01
+CLOCK: [2017-08-31 周四 11:18]--[2017-08-31 周四 11:19] =>  0:01
+:END:
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-29 周二 15:21]
+:ORDERED:  t
+:END:
+** CreditCar_Fraud
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-20 周三 14:17]--[2017-09-20 周三 14:55] =>  0:38
+:END:
+*** DONE [#C] Take engagement survey
+CLOSED: [2017-09-19 周二 10:04] SCHEDULED: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 10:02]--[2017-09-19 周二 10:04] =>  0:02
+:END:
+*** DONE [#C] Search and download the statment format in Internet
+CLOSED: [2017-09-20 周三 14:55] SCHEDULED: <2017-09-20 周三>
+:PROPERTIES:
+:CATEGORY: Internet
+:END:
+*** DONE [#A] Have Jerry signed the statment                  :@JerryShen:
+CLOSED: [2017-09-20 周三 14:55] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** DONE [#A] Have Jolene stamped the statment                :@JolenePan:
+CLOSED: [2017-09-20 周三 14:55] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** DONE [#A] Scan and send back all statments to CCB
+CLOSED: [2017-09-20 周三 14:55]
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+*** WAIT [#B] CCB's refund back of the deal                         :@CCB:
+DEADLINE: <2017-10-20 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** DONE [#A] 问问Karen怎么开具单位考勤证明                     :@KarenLi:
+CLOSED: [2017-09-20 周三 09:50] SCHEDULED: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-20 周三 09:50] \\
+  Make a statment and have Jerry signed, then have Jolene stamed
+:END:
+** TODO [#B] Check [[http://teamcenter.am.elcompanies.net:8080/tc/webclient][Teamcenter]] everyday                           :@Intranet:
+SCHEDULED: <2017-10-09 Mon .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-10-01 Sun 15:09]
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 15:09]
+- CLOSING NOTE [2017-09-30 周六 10:40] \\
+  no dwg
+CLOCK: [2017-09-30 周六 10:39]--[2017-09-30 周六 10:40] =>  0:01
+- CLOSING NOTE [2017-09-29 周五 09:52] \\
+  no dwg
+CLOCK: [2017-09-29 周五 09:51]--[2017-09-29 周五 09:52] =>  0:01
+- CLOSING NOTE [2017-09-28 周四 10:53] \\
+  no dwg
+CLOCK: [2017-09-28 周四 10:45]--[2017-09-28 周四 10:53] =>  0:08
+- CLOSING NOTE [2017-09-27 周三 10:49]
+- CLOSING NOTE [2017-09-26 周二 14:41]
+CLOCK: [2017-09-26 周二 14:37]--[2017-09-26 周二 14:41] =>  0:04
+- CLOSING NOTE [2017-09-25 周一 11:21] \\
+  no dwg
+- CLOSING NOTE [2017-09-23 周六 21:58]
+- CLOSING NOTE [2017-09-22 周五 09:30] \\
+  no drawing
+- CLOSING NOTE [2017-09-20 周三 15:29] \\
+  several brush drawings
+CLOCK: [2017-09-20 周三 15:21]--[2017-09-20 周三 15:29] =>  0:08
+- CLOSING NOTE [2017-09-19 周二 10:38] \\
+  1 brush drawing
+CLOCK: [2017-09-19 周二 10:34]--[2017-09-19 周二 10:38] =>  0:04
+- CLOSING NOTE [2017-09-18 周一 09:21] \\
+  on sifter and several brushes
+CLOCK: [2017-09-18 周一 09:11]--[2017-09-18 周一 09:21] =>  0:10
+- CLOSING NOTE [2017-09-15 周五 15:07] \\
+  postpone to next week
+- CLOSING NOTE [2017-09-14 周四 11:13] \\
+  Brush drawing loaded
+  Not urgent one
+  hold for next week
+- CLOSING NOTE [2017-09-12 周二 09:56] \\
+  no dwg
+- CLOSING NOTE [2017-09-11 周一 14:51] \\
+  upload and approve the PU sponge drawing
+- CLOSING NOTE [2017-09-08 周五 14:00] \\
+  no dwg
+- CLOSING NOTE [2017-09-07 周四 16:46] \\
+  urgent request for JM Glass bottle
+- CLOSING NOTE [2017-09-05 周二 13:48] \\
+  no dwg
+- CLOSING NOTE [2017-09-04 周一 10:10] \\
+  cannot open TC
+- CLOSING NOTE [2017-09-06 周三 15:09] \\
+  no dwg
+CLOCK: [2017-09-04 周一 10:08]--[2017-09-04 周一 10:10] =>  0:02
+CLOCK: [2017-08-11 周五 10:31]--[2017-08-11 周五 10:32] =>  0:01
+CLOCK: [2017-08-14 周一 11:41]--[2017-08-14 周一 11:43] =>  0:02
+CLOCK: [2017-08-28 周一 16:07]--[2017-08-28 周一 16:07] =>  0:00
+CLOCK: [2017-08-31 周四 11:07]--[2017-08-31 周四 11:09] =>  0:02
+- CLOSING NOTE [2017-09-03 周日 13:58] \\
+  weekend
+- CLOSING NOTE [2017-09-01 周五 10:28] \\
+  no dwg
+- CLOSING NOTE [2017-08-31 周四 11:09] \\
+  No dwg
+- CLOSING NOTE [2017-08-29 周二 11:44] \\
+  no dwg
+- CLOSING NOTE [2017-08-28 周一 16:07] \\
+  no dwg
+- CLOSING NOTE [2017-08-23 周三 11:04] \\
+  no dwg
+- CLOSING NOTE [2017-08-22 周二 10:22] \\
+  no dwg
+- CLOSING NOTE [2017-08-17 周四 14:43] \\
+  no dwg
+- CLOSING NOTE [2017-08-15 周二 11:17] \\
+  no dwg
+- CLOSING NOTE [2017-08-14 周一 11:43] \\
+  no dwg
+- CLOSING NOTE [2017-08-11 周五 10:32] \\
+  No dwg
+- CLOSING NOTE [2017-08-10 周四 09:52] \\
+  no dwg
+- CLOSING NOTE [2017-08-09 周三 09:40] \\
+  No dwg
+- CLOSING NOTE [2017-08-07 周一 10:32] \\
+  no dwg
+- CLOSING NOTE [2017-08-04 周五 10:32] \\
+  No dwg
+- CLOSING NOTE [2017-08-03 周四 15:08] \\
+  Brush drawing X 1
+- CLOSING NOTE [2017-07-31 周一 10:36] \\
+  no dwg
+- CLOSING NOTE [2017-07-27 周四 09:26] \\
+  Approve 3 dwg for brush
+- CLOSING NOTE [2017-07-18 周二 09:57] \\
+  Brush of 6MTM,S7JG
+- CLOSING NOTE [2017-07-17 周一 10:46] \\
+  NO DWG
+- CLOSING NOTE [2017-07-14 周五 10:10] \\
+  No DWG
+- CLOSING NOTE [2017-07-13 周四 13:33] \\
+  No drawing
+- CLOSING NOTE [2017-07-12 周三 11:24] \\
+  Approve drawing for Pinard 30&75ml
+- CLOSING NOTE [2017-07-10 周一 11:37] \\
+  No Drawing submitted
+:END:
+** TODO [#C] Search and read of papers on PacNet & Convert to PKM :@Intranet:
+SCHEDULED: <2017-10-09 Mon .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-10-01 Sun 15:09]
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 15:09]
+- CLOSING NOTE [2017-09-27 周三 10:49]
+- CLOSING NOTE [2017-09-25 周一 11:21]
+- CLOSING NOTE [2017-09-23 周六 21:59]
+- CLOSING NOTE [2017-09-22 周五 09:23]
+- CLOSING NOTE [2017-09-14 周四 11:13] \\
+  up to today
+:END:
+** TODO [#C] Sync org-mode to cloud                              :@Computer:
+SCHEDULED: <2017-10-08 Sun 17:30 ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-10-01 Sun 14:38]
+:CATEGORY: Computer
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 14:38]
+- CLOSING NOTE [2017-09-30 周六 09:04]
+- CLOSING NOTE [2017-09-29 周五 09:46] \\
+  install spacemacs and sync it
+- CLOSING NOTE [2017-09-28 周四 10:29]
+- CLOSING NOTE [2017-09-27 周三 10:46]
+- CLOSING NOTE [2017-09-26 周二 10:33]
+- CLOSING NOTE [2017-09-25 周一 09:31]
+- CLOSING NOTE [2017-09-23 周六 21:59] \\
+  change the org mode to separate org file and setting
+- CLOSING NOTE [2017-09-05 周二 20:01] \\
+  to U disck
+- CLOSING NOTE [2017-09-04 周一 10:06] \\
+  weekend
+- CLOSING NOTE [2017-09-03 周日 10:47] \\
+  sync to U-disck
+- CLOSING NOTE [2017-07-25 周二 22:14] \\
+  to dropbox
+:END:
+:PROPERTIES:
+:LAST_REPEAT: [2017-07-25 周二 22:14]
+:END:
+** TODO [#C] Weekly project review                              :@Computer:
+SCHEDULED: <2017-10-08 Sun ++7d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-10-03 Tue 13:57]
+:CATEGORY: Computer
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-03 Tue 13:57]
+CLOCK: [2017-09-30 周六 14:12]--[2017-09-30 Sat 14:17] =>  0:05
+CLOCK: [2017-09-30 周六 14:12]--[2017-09-30 周六 14:12] =>  0:00
+CLOCK: [2017-09-30 周六 13:43]--[2017-09-30 周六 13:59] =>  0:16
+CLOCK: [2017-09-30 周六 13:28]--[2017-09-30 周六 13:29] =>  0:01
+- CLOSING NOTE [2017-09-25 周一 13:54] \\
+  Weekend @ home
+CLOCK: [2017-09-23 周六 21:44]--[2017-09-23 周六 22:39] =>  0:55
+- CLOSING NOTE [2017-09-18 周一 11:35] \\
+  on Monday
+CLOCK: [2017-09-18 周一 10:27]--[2017-09-18 周一 10:54] =>  0:27
+CLOCK: [2017-09-18 周一 10:26]--[2017-09-18 周一 10:27] =>  0:01
+CLOCK: [2017-09-18 周一 10:17]--[2017-09-18 周一 10:26] =>  0:09
+CLOCK: [2017-09-15 周五 20:52]--[2017-09-15 周五 20:55] =>  0:03
+- CLOSING NOTE [2017-09-11 周一 14:32] \\
+  done on Monday
+CLOCK: [2017-09-08 周五 15:38]--[2017-09-08 周五 16:03] =>  0:25
+CLOCK: [2017-09-01 周五 15:37]--[2017-09-01 周五 16:33] =>  0:56
+CLOCK: [2017-09-01 周五 13:45]--[2017-09-01 周五 14:16] =>  0:31
+CLOCK: [2017-09-01 周五 13:27]--[2017-09-01 周五 13:37] =>  0:10
+CLOCK: [2017-09-01 周五 10:54]--[2017-09-01 周五 11:30] =>  0:36
+CLOCK: [2017-08-11 周五 16:20]--[2017-08-11 周五 17:24] =>  1:04
+CLOCK: [2017-08-18 周五 10:58]--[2017-08-18 周五 11:01] =>  0:03
+CLOCK: [2017-08-21 周一 20:32]--[2017-08-21 周一 20:46] =>  0:14
+- CLOSING NOTE [2017-07-25 周二 16:07] \\
+  Done [2017-07-25 周二] @ JW Marriott Seoul
+- CLOSING NOTE [2017-07-07 周五 17:53] \\
+  Get all reviewed through Org Mode
+:END:
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-30 周三 13:50]
+:END:
+:LAST_REPEAT: [2017-07-07 周五 17:53]
+** TODO [#A] Update TLM                                          :@Intranet:
+SCHEDULED: <2017-11-01 Wed .+1m>
+:PROPERTIES:
+:CATEGORY: Intranet
+:LAST_REPEAT: [2017-10-01 Sun 15:09]
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 15:09]
+CLOCK: [2017-09-30 周六 13:29]--[2017-09-30 周六 13:43] =>  0:14
+CLOCK: [2017-08-29 周二 10:16]--[2017-08-29 周二 11:16] =>  1:00
+:END:
+- CLOSING NOTE [2017-08-29 周二 11:39] \\
+  Apply all TLM for FY18
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-29 周二 11:39]
+:END:
+** DONE [#A] Prepare questios for Townhall Q&A                     :@Office:ARCHIVE:
+CLOSED: [2017-09-07 周四 11:28] DEADLINE: <2017-09-07 周四>
+:LOGBOOK:
+CLOCK: [2017-09-07 周四 11:21]--[2017-09-07 周四 11:28] =>  0:07
+CLOCK: [2017-09-07 周四 09:56]--[2017-09-07 周四 10:17] =>  0:21
+:END:
+*** What is the expertation from strategy standpoint for the role of package development in APAC
+**** As the key stakeholders are still in NY, like as GBSC, Creative, PD, even like we shift the leadship of cushion to APAC, we still need to go back to NY for related stuffs
+**** DONE From our strategy, is this fit our expertation, or we are going to shift
+CLOSED: [2017-09-07 周四 11:28]
+:LOGBOOK:
+- CLOSING NOTE [2017-09-07 周四 11:28]
+:END:
+** NEXT [#B] Re-organize the stock item pool                       :@Office:
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+* Training
+** Think about which kind of training I need [2/5]         :@Office:
+CLOSED: [2017-08-29 周二 15:44]
+CLOCK: [2017-08-29 周二 15:26]--[2017-08-29 周二 15:44] =>  0:18
+*** CANCELED [#C] You, the Coach 2.0: <2017-11-01 周三> -- <2017-11-02 周四>
+CLOSED: [2017-09-30 周六 13:44]
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 13:44] \\
+  cannot join due to Robert's visit
+:END:
+*** NEXT [#C] Innovation for Excellence: TBD
+*** NEXT [#C] 金字塔原理：逻辑思维与有效表达
+*** CANCELED [#C] Powerful presentation: <2017-11-16 周四> -- <2017-11-17 周五>
+CLOSED: [2017-09-30 周六 13:45]
+:LOGBOOK:
+- CLOSING NOTE [2017-09-30 周六 13:45] \\
+  may not join due to HongKong cosmoprof
+:END:
+*** NEXT [#C] 驻足思考-瞬间整理思路并有力表达
+** NEXT [#C] Take change to join on-line train of  [[https://esteelaudercompanies.skillport.com/skillportfe/main.action#whatshappening][E-Learning]] 
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+** DONE [#C] Explore in [[https://esteelaudercompanies.skillport.com/skillportfe/main.action#whatshappening][E-Learning]] website
+CLOSED: [2017-09-28 周四 14:57] SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-28 周四 14:57]
+- CLOSING NOTE [2017-09-28 周四 14:57]
+CLOCK: [2017-09-27 周三 14:24]--[2017-09-27 周三 14:32] =>  0:08
+CLOCK: [2017-08-30 周三 16:04]--[2017-08-30 周三 16:11] =>  0:07
+:END:
+** TODO [#B] Innovation Training per learning share
+SCHEDULED: <2017-12-05 周二 ++3m>
+:PROPERTIES:
+:LAST_REPEAT: [2017-09-05 周二 17:25]
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-05 周二 13:54]--[2017-09-05 周二 17:21] =>  3:27
+:END:
+** NEXT [#A] Talk with Jerry about which training I can join    :@JerryShen:
+SCHEDULED: <2017-10-12 周四> 
+:PROPERTIES:
+:CATEGORY: Agenda
+:ARCHIVE_TIME: 2017-10-03 Tue 14:00
+:ARCHIVE_FILE: ~/org/admin.org
+:ARCHIVE_OLPATH: Training
+:ARCHIVE_CATEGORY: Agenda
+:ARCHIVE_TODO: NEXT
+:END:
+* WorkingSpace
+:LOGBOOK:
+CLOCK: [2017-09-29 周五 14:01]--[2017-09-29 周五 14:15] =>  0:14
+:END:
+** DONE Discuss how to re-deco the innovation room and make more space
+CLOSED: [2017-08-10 周四 15:58]
+- CLOSING NOTE [2017-08-10 周四 15:58] \\
+  We want to redecorate the innovation room to get more display space and freestyle workspace.
+CLOCK: [2017-08-10 周四 15:00]--[2017-08-10 周四 15:24] =>  0:24
+** DONE [#C] Think about how to re-deco the innovation room 
+CLOSED: [2017-08-11 周五 16:35]
+** DONE [#C] Call the team to clean the innovation room            :@Office:
+CLOSED: [2017-10-01 Sun 15:11] SCHEDULED: <2017-09-29 周五>
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-10-01 Sun 15:11]
+CLOCK: [2017-09-29 周五 13:37]--[2017-09-29 周五 13:48] =>  0:11
+CLOCK: [2017-09-29 周五 10:58]--[2017-09-29 周五 11:50] =>  0:52
+:END:
+** NEXT [#C] Talk with Jerry about the redeco of innovation room :@JerryShen:
+   SCHEDULED: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+*** Buy a standing workstation
+**** TODO [#A] Get approval from Jerry to buy Table and Chairs   :@JerryShen:
+     SCHEDULED: <2017-10-09 周一>
+     :PROPERTIES:
+     :CATEGORY: Agenda
+     :END:
+**** Table @ JD [[https://item.jd.com/4286322.html#crumb-wrap][Loctek E1D]]
+**** Bar Chair
+
+* TA
+** DONE [#B] Check with Ronan about the TA change ver turnkey supplier :@RonanWei:
+CLOSED: [2017-09-22 周五 08:54] DEADLINE: <2017-09-19 周二> SCHEDULED: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-22 周五 08:54] \\
+  Steven Shannon feedback as:
+  Rich Byrd had told me no. He said that suppliers are in charge of auditing their own suppliers and they were liable to get quality products and services. I have never done one and have always directed them to audit the supplier themselves.
+:END:

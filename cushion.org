@@ -1,0 +1,2154 @@
+* Brand Projects
+:LOGBOOK:
+CLOCK: [2017-09-30 周六 14:12]--[2017-09-30 周六 14:12] =>  0:00
+CLOCK: [2017-08-17 周四 10:25]--[2017-08-17 周四 11:17] =>  0:52
+CLOCK: [2017-08-18 周五 09:41]--[2017-08-18 周五 09:45] =>  0:04
+:END:
+** BB Cushion
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 13:29]--[2017-09-19 周二 13:38] =>  0:09
+CLOCK: [2017-09-19 周二 10:27]--[2017-09-19 周二 10:30] =>  0:03
+CLOCK: [2017-09-14 周四 09:17]--[2017-09-14 周四 09:40] =>  0:23
+- Note taken on [2017-09-01 周五 16:01] \\
+  According to Marta's instruction, we are not recommendated to use PET material for it's potential risk to decrease the SPF index of chemical sunscreening
+:END:
+*** TODO [#B] Obtain MSDS of Bobbi's Polyester PU sponge         :@DocHwan:
+SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** WAIT [#C] Jill to advise if more samples are needed     :@JillAndrako:
+DEADLINE: <2017-10-20 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+[[*Marta to review and approve the RDP form][Marta to review and approve the RDP form]]
+DEADLINE: <2017-08-11 周五>
+*** Dimension of current K-cup
+**** K-cup: ID 48.5 x Dept 12.7
+**** Sponge: D 49.5 x 11 mm, with D3mm through hole
+*** Propose Taiki's Liquid Tank as a alternative option for Bobbi
+For the INOAC Vafter cannot be compressed from radius direction and it will be waving on top of sponge since the sponge need to friction fitted with K-cup
+**** DONE [#B] Taiki to send formal quotation of die cut tool. for 3mmd hole :@Taiki:
+DEADLINE: <2017-07-04 周二>
+**** DONE [#B] Aaron to create PO for the die cut tool       :@AaronChen:
+CLOSED: [2017-07-06 周四 11:06] DEADLINE: <2017-07-07 周五> SCHEDULED: <2017-07-04 周二>
+- CLOSING NOTE [2017-07-06 周四 11:06] \\
+  PO Issued [2017-07-06 周四] PO# 3301365407
+**** DONE [#B] Taiki to provide 51.7mmd X 11mmt samples with a 3mmd through hole :@Taiki:
+CLOSED: [2017-07-31 周一 10:37] DEADLINE: <2017-07-17 周一> 
+- CLOSING NOTE [2017-07-31 周一 10:37] \\
+  Get samples and forward to Jill
+- Note taken on [2017-07-06 周四 11:08] \\
+  [2017-07-06 周四] PO created and send to summer
+  Ask her to provide lead time of both tool and samples
+***** DONE [#B] Taiki to submit component material information  :@Taiki:
+CLOSED: [2017-07-31 周一 10:37] DEADLINE: <2017-07-17 周一>
+- CLOSING NOTE [2017-07-31 周一 10:37] \\
+  fiber is PP
+- State "WAIT"    from ""           [2017-07-06 周四 11:49] \\
+  Send summer the supplier component information form
+- [ ] Lab test with Taiki's option
+- [ ] Check with Kolmar / Suguru-san about fill-ability of Taiki's option
+*** DONE [#A] Talk with Carl about their attitude of BB Mist cushion failed :@CarlLin:
+CLOSED: [2017-09-19 周二 13:28] SCHEDULED: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-19 周二 13:28] \\
+  There is no visible issue on 40C X 6 M samples
+  Sponge shrink a lot @ 50C X 6M
+  There is no OTC data
+CLOCK: [2017-09-19 周二 13:26]--[2017-09-19 周二 13:28] =>  0:02
+CLOCK: [2017-09-19 周二 10:45]--[2017-09-19 周二 10:53] =>  0:08
+:END:
+*** DONE [#B] Try Taiki's samples for BB Cushion in weekend
+CLOSED: [2017-07-31 周一 10:35] SCHEDULED: <2017-07-22 周六>
+*** DONE [#A] how can we react for the cushon formula-material compatibility guide :@Agenda:@JerryShen:
+CLOSED: [2017-08-17 周四 14:50]
+- CLOSING NOTE [2017-08-17 周四 14:50] \\
+  Leave it as it is
+*** DONE [#A] Look at the stability test result of Taiki's liquid tank
+CLOSED: [2017-08-29 周二 16:19]
+- CLOSING NOTE [2017-08-29 周二 16:19] \\
+  no record of stability test result with Taiki Liquid Tank
+CLOCK: [2017-08-29 周二 16:17]--[2017-08-29 周二 16:19] =>  0:02
+*** DONE Brand is asking for status of microfiber sponge    :@JillAndrako:
+- What is the status of the Microfiber sponge development?
+- We are planning a new cushion launch for an OCD of March 2019 and would need sponge samples for development and OTC testing as early as September 2017.
+- We also might be changing the height of our K-cup.  Is it possible to get the microfiber sponge in any size that we would need and with the hole in the center for our filling process?
+*** DONE [#A] Check with Carl about status of RYRK stability 
+CLOSED: [2017-09-13 周三 20:51] SCHEDULED: <2017-09-13 周三>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-13 周三 20:51] \\
+  Have US formulation team to check
+:END:
+*** DONE [#B] Check the Test history of ECJJ formula
+CLOSED: [2017-09-14 周四 09:52]
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+
+:LOGBOOK:
+- CLOSING NOTE [2017-09-14 周四 09:52] \\
+  Find below comments on the preliminary spreadsheet
+  "Started on 10/14
+  Initial UV on 10/20
+  Fail@75C
+  Recoverd very slowly@50C@3M
+  Broken@50C@4M
+  OTC test:
+  Initial Pass"
+:END:
+*** DONE [#A] Carl to advise more details about the ECJJ formula with EE6T sponge :@CarlLin:
+CLOSED: [2017-09-15 周五 15:10] DEADLINE: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-15 周五 15:10] \\
+  failed, see pictures
+:END:
+
+#+DOWNLOADED: file:C%3A/Users/oque/Desktop/image1.png @ 2017-09-15 10:28:29
+[[file:BB Cushion/image1_2017-09-15_10-28-29.png]]
+** EL DW CUSHION BB 12GM/.42OZ
+*** Get consumer complaint for white space on sponge on Estee Lauder online store<2017-06-08 周四>
+#+DOWNLOADED: file:D%3A/emacs/files/1.png @ 2017-09-01 20:17:25
+[[file:Cushion/1_2017-09-01_20-17-25.png]]
+** EL Nutritious CC(RWC2)
+*** Code
+**** Salable Sponge: RWC2010242
+**** Mini Sponge: RYM3010242
+*** CANCELED [#C] PTR 140756 to test INOAC PU as a backup for Nutritious since there is a supply chain issue for PB material due to facility exploration. :@PTR:
+CLOSED: [2017-08-17 周四 16:01]
+- Note taken on [2017-07-07 周五 17:27] \\
+  Low priority sine alternative resin, pause till test of blending rejected.
+*** PD's directions 
+**** [2017-06-13 周二] Comments about samples off line trial on [2017-06-08 周四]
+APAC Skincare PD preferred the 64-10 [fiber length-curl] for visual appearance ONLY after the surface was patted at least once with the puff applicator (aka "primed"). This allowed for the excess juice on the surface to be "blotted" and not sit on the surface of the sponge. As you will see from the attached photos, the surface of the sponge looks more even and uniform after priming. The same comment regarding visual appearance applies to the 51-10 MF option. The attached are photos of the 64-10 (primed and untouched) and 51-10 (primed and untouched) samples.
+In addition, for each of the above 4 options there were 2 different sponge weights – Heavy and Light. The preference was the 64-10 'Heavy' because the degree of stiffness most closely matches the 0.04 MF samples GPD and APAC PD have seen in the past. The 51-10 'Heavy' is slightly yet noticeably softer in degree of stiffness vs. the 64-10 'Heavy' with fingertip evaluation. This difference is slightly less perceivable when evaluated with a puff applicator. Hence, we agreed with Jerry, Oswald and Jane that the next round of spec refinement for the sponge should aim to be within the range of 64-10 'Heavy' to 51-10 'Heavy'.
+Lastly, regarding the height of the sponge, we already spoke to Jerry and Oswald that we'd like to increase the height slightly so the gap between the surface of the sponge and rim of the engine is lessened. We understand it's not advantageous to have the sponge too high/ touching the rim of the engine because there will be product contact with the seal which will impact aesthetics and possibly the adhesiveness of the seal. Per our discussion, this attribute will also be addressed in the next round of spec refinement.
+**** Message to Hiroshi-san about PD's direction [2017-06-13 周二 13:19] \\
+Regarding the gap:We've shared with Ida the experimental samples I made and we are aligned that we should leave a gap rather than have bulk on purity seal and risk to impact the adhesive of label. She need to further review with Jane for the maximum gap samples before share to US. For the trial happened in INOAC this week, we should target thickness of 9.7 or a little bit more to 9.8 if they can make a stable process as last time. Among that, we would like to pick up some samples near 10.2 to show the actual minimum gap, since we only have something > 9.8 last week.
+Regarding stiffness of sponge: The most preferred option is 64-10, however the 51-10 and 51-15 are not bad, just because they are a little bit softer than the previously approved 0.04 samples. Since we recommended 51-10 from process standpoint and stiffness can be adjusted by weight, we'd like to keep 51-10 and adjust stiffness to be same as 64-10. The 25% CFD of 64-10 is 8.24 ~ 12.98 N (weight 0.61 ~ 0.78 g) while 51-10 is 7.21 ~ 12.69 (0.61 ~ 0.67 g). I believe it is possible to increase the 25% CFD of 51-10 to be same level of 64-10 by adding more fiber to an individual sponge which is increasing the density a little bit.
+**** [2017-06-30 周五] PD's direction on samples of alternative material of PB0300M:PB0801M=7:3 by Ida_Wong. Base on hand filled samples. 
+***** Surface appearance of the new sponge blend is actually quite good and even.
+- Note taken on [2017-07-07 周五 17:38] \\
+  The actual reason is hand fill. We cannot guarantee this with machine fill. I've clarified this with Jerry_Shen.
+***** Compared to all the previously reviewed 0.04 sponges this "new" sub is softer (less rigid) when pressing with fingertips and when patting with puff applicator.
+- Note taken on [2017-07-07 周五 17:39] \\
+  Have Hiroshi_Hayashi to confirm with INOAC about the CFD of alternative material.
+***** Since the sponge is softer than previous versions, there is noticeably more product (the juice) picked up with just one pat of the puff. Even after several uses there's a lot of juice being picked up on puff. We also see more than usual amounts of juice residing on the rim of the sponge [photos
+****** DONE Confirm with Alex about the filling weight and process of hand fill samples. 
+CLOSED: [2017-07-10 周一 11:41] SCHEDULED: <2017-07-10 周一>
+- CLOSING NOTE [2017-07-10 周一 11:41] \\
+  confirmed with Hellen, it's about 13g
+lastly and most importantly, because we are getting more product on the sponge during pick up, it's requiring more pats on the face to fully blend into skin. Especially for fairer shades (like the NU Porcelain Pink), if you don't blend the product into skin it starts to look streaky/ blotchy.
+Net-net: the sponge appearance is good, the softer "bounce" of the sponge is slightly different vs. previous but not necessarily a bad thing... however, the more than expected product pick and the amount of juice residing in the rim is not ideal. As you can see from the photos, the excess juice is spread towards the rim after patting with puff... the juice stays like that on the surface even after the compact has been "resting" and not in use. I wonder if there is a possibility for dry out since there's product sitting on the surface versus being soaked up in the sponge.
+- Note taken on [2017-07-07 周五 17:40] \\
+  Ask Hiroshi_Hayashi to prepare samples off line trial from same batch of alternative material for PD review.
+*** Timing:
+**** Delivery schedule of sponge
+***** Salable (RWC2-01-0242)
+****** 284k to  Cosmax by 8/29
+****** 37 K to Cosmax by 9/25
+***** Deluxe Samples (RYM3-02-0242)
+****** 134.5 K to Cosmax by 8/3
+****** 77 K to Cosmax by 10/3
+**** Mass production will be postpone till we get approval of line trial at Cosmax
+*** DONE [#B] Suguru-san to advise the batch# of last Nutritious CC trial 
+CLOSED: [2017-07-26 周三 09:34] DEADLINE: <2017-07-28 周五> 
+- CLOSING NOTE [2017-07-26 周三 09:34] \\
+  Ricky shared the batch# as RKL2-02-B02J
+** EL Nutritious CC FY19
+*** WAIT [#B] Hiroshi-san and INOAC to try the Heat&Press on MF sponge :@HiroshiHayashi:
+DEADLINE: <2017-10-06 周五 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+** EL Double Deck Compact
+:LOGBOOK:
+- Note taken on [2017-09-15 周五 15:16] \\
+  Tim update to Team about the new concept 
+  
+  #+DOWNLOADED: file:C%3A/Users/oque/Desktop/1.png @ 2017-09-15 15:18:44
+  [[file:1_2017-09-15_15-18-44.png]]
+- Note taken on [2017-09-14 周四 09:59] \\
+  Forwarded email to Jerry about the failure of hinge breakage
+  And show him the story of Nutritious Compact
+CLOCK: [2017-09-14 周四 09:53]--[2017-09-14 周四 10:02] =>  0:09
+- Note taken on [2017-09-13 周三 14:08] \\
+  using the Re-Nutriv 2.0 formula twisted base on ECJJ (BB ISSF)
+  Code: RYRK
+- Note taken on [2017-07-14 周五 14:10] \\
+  DocHwan and Hiroshi-san always show up in emails
+:END:
+*** Engine size check: ID 51.2-51.3 mm, Depth: 9 mm. Recommend MF size: D50 * T8.5
+*** CANCELED [#C] Tell Jerry that Tim apply another weight loss test with a exiting Toly engine :@JerryShen:
+CLOSED: [2017-09-25 周一 16:08] SCHEDULED: <2017-09-20 周三>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 16:08]
+:END:
+suppose for the Double Decker project
+
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/473867258.jpg @ 2017-09-13 14:32:11
+[[file:Tim apply another weight loss test with a exiting Toly engine/473867258_2017-09-13_14-32-11.jpg]]
+*** DONE [#B] 141748 with modified compact (most important is W/L study) :@PTR:
+CLOSED: [2017-09-20 周三 10:23] DEADLINE: <2017-09-18 周一 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-20 周三 10:23] \\
+  Salable approved for W/L, but refill rejected
+  The compact cover pressure on inner lid is playing a big role in W/L
+- Note taken on [2017-09-12 周二 09:21] \\
+  There is no material information on PTR 140055
+- Note taken on [2017-09-12 周二 09:16] \\
+  Only *ABS* was shown as material information in RDS, no speicified grade.
+CLOCK: [2017-09-12 周二 09:13]--[2017-09-12 周二 09:22] =>  0:09
+- Note taken on [2017-09-11 周一 21:15] \\
+  the hinge breakage failed
+:END:
+*** DONE [#B] 140055 with the 1st submission                        :@PTR:
+CLOSED: [2017-09-04 周一 09:18]
+:LOGBOOK:
+- CLOSING NOTE [2017-09-12 周二 09:18] \\
+  Weight loss rejected
+  Deformation on sponge
+:END:
+*** DONE [#B] Discuss with Jerry about their discussion in JP about the progress of Double Decker :@JerryShen:
+CLOSED: [2017-09-04 周一 11:31] SCHEDULED: <2017-09-04 周一>
+- CLOSING NOTE [2017-09-04 周一 11:31] \\
+  He do not know the detail process and need to consult Tim
+- [ ] Are we switching to Toly or stay @ ShinHan
+- [ ] What about the leadship of APAC
+*** DONE [#A] Hellen to advise the 2nd weight loss without purity seal :@PTR:
+CLOSED: [2017-08-28 周一 15:26] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-08-28 周一 15:26] \\
+  4 weeks weight loss
+  - 40C 20%
+  - 50C 30%
+  
+  Weight loss is coming from label. 2 weeks w/l with lable < 3% and 4 weeks W/L W/ label < 4.7%
+CLOCK: [2017-08-28 周一 11:48]--[2017-08-28 周一 11:57] =>  0:09
+*** DONE [#A] Hellen to advise the 2 week resutl of D48*9.7 sponge  :@PTR:
+CLOSED: [2017-08-28 周一 15:31] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-08-28 周一 15:31] \\
+  No deformation
+- Note taken on [2017-08-28 周一 11:57] \\
+  No deformation and Hellen will send picture this afternoon
+**** DONE [#B] Update to Hiroshi-san about test result          :@Office:
+CLOSED: [2017-08-28 周一 17:19] SCHEDULED: <2017-08-29 周二>
+- CLOSING NOTE [2017-08-28 周一 17:19] \\
+  No deformation with D48*9.7
+*** DONE [#B] Hellen to advise if the sponge is still movable and can we see the sponge edge from frmae :@PTR:@HellenZhu:
+CLOSED: [2017-08-28 周一 16:33] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-08-28 周一 16:33] \\
+  about 2 mm moveable
+*** DONE [#A] Talk with Jerry about my failure on the Double Decker sponge diameter calculation 
+CLOSED: [2017-08-15 周二 11:11] SCHEDULED: <2017-08-15 周二>
+*** DONE [#A] Investigate the root cause of double decker failure
+CLOSED: [2017-08-15 周二 11:09] SCHEDULED: <2017-08-14 周一>
+- CLOSING NOTE [2017-08-15 周二 11:09] \\
+  Hiroshi-san to double confirm what he want
+  sponge 和 Inner sponge干涉导致表面起皱
+  WL结果主要来自于purity seal的贡献
+CLOCK: [2017-08-14 周一 15:27]--[2017-08-14 周一 16:12] =>  0:45
+*** [2017-06-22 周四] Get samples of 7mm thickness from Hiroshi-san. Samples fit well from diameter side and need to increase diameter to fit the 51.2mm engine ID.
+
+** EL DW Moisture + Glow Cushion
+:LOGBOOK:
+- Note taken on [2017-09-18 周一 08:36] \\
+  From the email from David, it seems the Glow compact failed weight loss?
+  
+  #+BEGIN_QUOTE
+  I spoke to Allan and Tim on Friday.  It sounds like the 2 in 1 cushion failed weight loss, so the airtight engine will need to be re engineered to improve the weight loss results.  Because of this issue, I believe the timing has been moved out.
+  As far as the pan insert, it does not look like either EL or Tom Ford have been contacting anybody to redesign it.
+  #+END_QUOTE
+:END:
+- Note taken on [2017-08-18 周五 10:53] \\
+  DocHwan advise there is no bulk mark on the purity seal on those samples on his hand and he will conduct a transit test to see if this is coming from transportation
+- Note taken on [2017-08-18 周五 09:36] \\
+  Get comments and pictures from R&D
+  1. R&D is recommending to seal the cushion only instead of cushion + glowing together, which will need to increase the partition wall between 2 bulk. And also need a unnormal shape of purity seal, which is very difficult to apply and high cost
+  2. Bulk mark on purity seal on part of cushion, which can be solved by decrease the height of sponge.
+CLOCK: [2017-08-18 周五 09:35]--[2017-08-18 周五 09:40] =>  0:05
+CLOCK: [2017-08-14 周一 09:29]--[2017-08-14 周一 09:44] =>  0:15
+*** Time line
+**** DONE INOAC need to ship 175K by <2017-08-04 周五>
+CLOSED: [2017-08-04 周五 10:38]
+- CLOSING NOTE [2017-08-04 周五 10:38] \\
+  INOAC Change the ex-factory data
+**** INOAC is asking for approval to start mass production tool <2017-07-11 周二>
+*** Code: P4AJ-01-0241
+| Peroperties | INOAC ESL2-X1 unreticulated Polyether PU sponge | Foametc EZ1.90088P065000A reticulated Polyether Sponge |
+|-------------+-------------------------------------------------+--------------------------------------------------------|
+| Density     | 22 +/-2 kg/m3                                   | 1.96 lb / ft3 = 31.4 kg/m3                             |
+| PPI         | 93                                              | 35-50                                                  |
+|             |                                                 |                                                        |
+
+   
+*** R&D raise concerns that there is no seal between glow & cushion; and there is bulk on purity seal[0/1]
+**** WAIT [#B] DocHwan to advise the result of transit test for bulk mark on purity seal :@DocHwan:
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** Komar think the range board our PD approved is too tight for them, they want a re-submission from 2nd line trial on [2017-09-04 周一]
+*** NEXT [#C] Take chance to know the reason of 650 pcs additonal sponge request on [2017-08-29 周二] :@DorothyWong:
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** DONE [#B] Show the filled samples to Jerry        :@Agenda:@JerryShen:
+CLOSED: [2017-08-22 周二 10:53] SCHEDULED: <2017-08-22 周二>
+*** DONE [#A] Tim Tobine to revise the AFR spec of individual sponge :@TimTobine:
+CLOSED: [2017-08-17 周四 15:58]
+*** DONE [#A] Tim Tobine to confirm the defect board          :@TimTobine:
+CLOSED: [2017-08-17 周四 15:57]
+- Note taken on [2017-08-14 周一 09:44] \\
+  Send Defect board to Tim by [2017-08-09 周三] and follow up by [2017-08-14 周一]. Tim OOO on Friday [2017-08-11 周五] and will back to office Monday [2017-08-14 周一]
+*** DONE [#B] Sign the duplicated range board to INOAC :@INOAC:@TimTobine:
+CLOSED: [2017-09-12 周二 11:16] SCHEDULED: <2017-09-12 周二>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-12 周二 11:16] \\
+  keep label in case Kolmar need
+- Note taken on [2017-09-12 周二 11:04] \\
+  STD00119676: Die Cut
+  STD00119675: Pin hole
+  STD00119673: Pore size
+CLOCK: [2017-09-12 周二 10:21]--[2017-09-12 周二 11:16] =>  0:55
+CLOCK: [2017-09-12 周二 10:12]--[2017-09-12 周二 10:21] =>  0:09
+:END:
+*** DONE [#B] INOAC to submit specification                       :@INOAC:
+CLOSED: [2017-08-14 周一 09:43]
+*** DONE [#A] Send INOAC's defect board to US                    :@Office:
+CLOSED: [2017-08-09 周三 10:08] SCHEDULED: <2017-08-09 周三>
+- CLOSING NOTE [2017-08-09 周三 10:08] \\
+  FedEx 8103 6300 8121
+*** DONE [#B] INOAC to submit standard and defect board of P4AJ   :@INOAC:
+CLOSED: [2017-08-09 周三 09:46] DEADLINE: <2017-08-04 周五>
+- CLOSING NOTE [2017-08-09 周三 09:46] \\
+  sample reveived
+- Note taken on [2017-07-18 周二 08:52] \\
+  Get standard today and forward to Arthur
+*** DONE [#A] Arthur to sign back the sponge standard  :@ArthurdeGrandpre:
+CLOSED: [2017-07-31 周一 10:35] DEADLINE: <2017-07-21 周五>
+- CLOSING NOTE [2017-07-31 周一 10:35] \\
+  Get standard samples
+- Note taken on [2017-07-25 周二 08:22] \\
+  Tim advise the standard has been issued
+- Note taken on [2017-07-20 周四 10:34] \\
+  Arthur got standard samples and I asked him to sign back 3 to INOAC and 3 to Kolmar (ship to DocHwan)
+*** DONE [#B] INOAC to propose the air flow rate of invididual sponge of Glow :@INOAC:
+CLOSED: [2017-08-09 周三 09:42] DEADLINE: <2017-07-20 周四>
+- CLOSING NOTE [2017-08-09 周三 09:42] \\
+  另外：通气率治具也已经安装完成并测试（附件照片和数据参照）
+  ZJE0010244制品表面积是1809mm^2，通气性标准135L/min以上，
+  P4AJ010241制品表面积是1852mm^2，通气性标准：（（1852-1809）/1809*135）+135=138.2L/min
+- Note taken on [2017-08-07 周一 14:25] \\
+  with a calculation of the foot print area, set the air flow rate as 140.
+*** DONE [#A] Forward INOAC standard to Arthur         :@INOAC:@TimTobine:
+CLOSED: [2017-07-18 周二 14:32] SCHEDULED: <2017-07-18 周二>
+- CLOSING NOTE [2017-07-18 周二 14:32] \\
+  Send to Arthur
+  Tracking: Fedex [[https://www.fedex.com/apps/fedextrack/?tracknumbers=8103%25206300%25208202&cntry_code=us][8103 6300 8202]]
+*** DONE [#A] Tim to advise the approval of P4AJ sponge       :@TimTobine:
+CLOSED: [2017-07-13 周四 16:26] DEADLINE: <2017-07-14 周五>
+- CLOSING NOTE [2017-07-13 周四 16:26] \\
+  We can proceed with production tool
+*** DONE [#A] Tim to advise how to approve INOAC to foam      :@TimTobine:
+CLOSED: [2017-07-14 周五 09:19] DEADLINE: <2017-07-14 周五>
+- CLOSING NOTE [2017-07-14 周五 09:19] \\
+  Tim give email approval for INOAC to start foaming
+  Give instruction to INOAC as well
+  Give INOAC direction to revise tolerance of thickness to 0.2
+  Give INOAC direction to submit specification, standard and range board ASAP.
+*** DONE Dorothy to advise whether the glow sponge is turnkey or direct buy
+CLOSED: [2017-07-12 周三 13:16] DEADLINE: <2017-07-13 周四>
+- CLOSING NOTE [2017-07-12 周三 13:16] \\
+  This is a direct buy sponge
+*** DONE DocHwan or Hiroshi-san to advise the approval status of new shape INOACPU sponge :@DocHwan:@HiroshiHayashi:
+CLOSED: [2017-07-12 周三 13:15]
+- CLOSING NOTE [2017-07-12 周三 13:15] \\
+  None of them can confirm
+- Note taken on [2017-07-11 周二 15:53] \\
+  Send email to DocHwan and Hiroshi
+*** DONE INOAC to submit the drawing of glow cushion              :@INOAC:
+CLOSED: [2017-07-12 周三 10:48] DEADLINE: <2017-07-11 周二>
+- CLOSING NOTE [2017-07-12 周三 10:48] \\
+  INOAC submit drawing
+  and we need to check if this is a turnkey or direct buy sponge
+
+*** DONE [#A] Check with Hellen about the weight loss result of Kolmar's Dual Cushion :@PkgLab:@PTR:
+CLOSED: [2017-09-18 周一 11:34] SCHEDULED: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: Call
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-18 周一 11:32] \\
+  Tim asked to redo w/l for each bulk separately
+CLOCK: [2017-09-18 周一 11:27]--[2017-09-18 周一 11:34] =>  0:07
+:END:
+
+*** DONE [#B] W/L for 2 bulk separately                      :@PTR:ATTACH:
+CLOSED: [2017-09-25 周一 14:11] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:Attachments: 141060%20weight%20loss%20(plastic).xls
+:ID:       57c56ef2-ba1b-4d04-b6c0-4b3f40dffb7a
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 14:11] \\
+  both conceler and foundation rejected @ 50C
+  see details in attached spreadsheet
+:END:
+** LaMer Cushion(5NM7)                                       :@CamillaTaft:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 10:11]--[2017-09-19 周二 10:14] =>  0:03
+CLOCK: [2017-09-07 周四 08:29]--[2017-09-07 周四 08:29] =>  0:00
+CLOCK: [2017-09-06 周三 09:33]--[2017-09-06 周三 09:33] =>  0:00
+- Note taken on [2017-09-06 周三 09:06] \\
+  Meeting for NBR specification
+  1. AFR test protocol: ASTM and there is no instrument to test AFR in both Cosmax and S&P
+  2. To check S&P capability
+  3. Consult Marta Pazos for insight 
+CLOCK: [2017-09-06 周三 09:05]--[2017-09-06 周三 09:33] =>  0:28
+CLOCK: [2017-09-06 周三 08:30]--[2017-09-06 周三 09:05] =>  0:35
+CLOCK: [2017-09-04 周一 13:38]--[2017-09-04 周一 14:30] =>  0:52
+CLOCK: [2017-08-17 周四 08:30]--[2017-08-17 周四 09:33] =>  1:03
+CLOCK: [2017-08-30 周三 10:50]--[2017-08-30 周三 10:55] =>  0:05
+- Note taken on [2017-09-04 周一 13:38] \\
+  We got W/L result of 139307 and 139308 on the blister of LM NBR, % of W/L is extreme high
+- Note taken on [2017-08-30 周三 16:26] \\
+  Meeting with Cammilla, Kelly Brice, Suguru Ishikawa...
+  - In the mini blister, there is a gap between NBR puff and VF well. 
+    Since the NBR sponge will swell with formula, they put too much allowance so that it's too small
+  - AFR
+    Dave Wilson has already talked with Camilla
+  - La Mer PD still prefer NBR and they think this is more luxry than MF
+  - Ask for more samples test the AFR of NBR
+- Note taken on [2017-08-30 周三 10:45] \\
+  Hiroshi-san advise the AFR of NBR from 86.5 - 109.7 L/min/D48mm
+- Note taken on [2017-08-02 周三 09:53] \\
+  Camilla would like Hiroshi-san to confirm the specification of Promo samples
+  Hiroshi fells strange that the main developer never know that.
+- Note taken on [2017-07-14 周五 09:47] \\
+  Christine advise that NBR can absorb more than Micro-fiber after filling
+  But Camilla advise that  the NBR samples received throughout this development have had the most bulk found on the back of the peal seal and on the frames. MF in comparison has a minimal amount of bulk on the back of the peal seal and with nothing on the frames.
+:END:
+*** Line trial on <2017-06-15 周四>
+**** DONE Line trial samples from Suguru-san                       :@PTR:
+CLOSED: [2017-07-05 周三 17:36]
+- Note taken on [2017-07-06 周四 14:23] \\
+  Get samples for PTR 139810
+- CLOSING NOTE [2017-07-05 周三 17:36] \\
+  Get from DHL, it has been hold in customer for 3 weeks.
+  Get 2 packets, 1 is for PTR 139808 and another is extreme samples.
+  Pay 100 for storage
+**** DONE [#B] Show ZhuWen the line trial samples               :@ZhuWen:
+CLOSED: [2017-07-06 周四 15:32] SCHEDULED: <2017-07-05 周三>
+- CLOSING NOTE [2017-07-06 周四 15:32] \\
+  Give finished goods and extreme samples to Wen. 
+  Since Yuboko is not in charge of LM brand, Ida will take care of review of most LM product even it's a make up.
+**** DONE Suguru-san to advise the difference of 'Thinner' one among 8 of 'Thin'. If that one out of spec? :@SuguruIshikawa:
+CLOSED: [2017-07-10 周一 15:40] DEADLINE: <2017-07-14 周五> SCHEDULED: <2017-07-07 周五>
+- CLOSING NOTE [2017-07-10 周一 15:40] \\
+  Suguru-san confirmed it's very close to the LSL
+**** PD's direction base on samples line trial on <2017-06-15 周四>
+***** [2017-07-07 周五] by Wen                                 :@ZhuWen:
+Samples labeled as 'Thinner' looks too thin
+****** CANCELED [#B] Wen to show the Thinner samples
+CLOSED: [2017-07-18 周二 15:18] DEADLINE: <2017-07-17 周一> 
+- CLOSING NOTE [2017-07-18 周二 15:18] \\
+  Suguru already confirmed that lowest one is most close to low limit
+- Note taken on [2017-07-12 周三 10:17] \\
+  Wen in Korea this week for meeting
+CLOSED: [2017-07-12 周三 10:10] SCHEDULED: <2017-07-12 周三>
+**** DONE [#A] Check with Wen if there is still retain of LM samples, check for if it is for test
+- CLOSING NOTE [2017-07-12 周三 10:10] \\
+  There is 12 pcs left and the others have been shipped to Ida in Hong Kong
+  There is no mark on the outer box for PTR
+*** NBR filling issue
+**** DONE [#A] Think about how to deal with NBR specification
+CLOSED: [2017-09-07 周四 09:55] DEADLINE: <2017-09-06 周三>
+:LOGBOOK:
+- CLOSING NOTE [2017-09-07 周四 09:55] \\
+  According to the meeting, Hiroshi-san will lead the investigation with Dochwan to Cosmax and S&P
+- Note taken on [2017-09-06 周三 15:03] \\
+  A meeting this morning about next step of NBR
+  - Consult Marta about the AFR test protocol
+  - DocHwan to check capability of Cosmax and S&P
+  - Check the other performance spefication to determin the root cause
+CLOCK: [2017-09-04 周一 15:25]--[2017-09-04 周一 15:48] =>  0:23
+:END:
+***** Kelly Briace wrote a email to Jerry asking for our recommendation of NBR specification
+****** What need to be add to NBR spec per our experience on PU and MF
+***** It should be Cosmax's responsibility to show us what is critical for quality control
+****** Jerry is worrying if we send message like this, US will think we do not have enough capability as well
+****** Jane will also have concern about the compability of package
+***** We are actually not familiar with the NBR in compact sponge
+****** It took several month for us to get understanding of PU and NBR sponge
+**** DONE [#A] Discuss with Jerry about our attitude to NBR specification :@Agenda:@JerryShen:
+CLOSED: [2017-09-05 周二 13:45]
+- Note taken on [2017-09-05 周二 13:44] \\
+  Jerry also send message to Kelly about the turnkey property of La Mer Cushion project, we'd better get Cosmax invovled to set up specification.
+**** Specification of NBR :ATTACH:
+:PROPERTIES:
+:Attachments: COA_NBR_SP.pdf
+:ID:       5f92978f-85ed-48af-b15d-3d84505ffe42
+:END:
+S&P World NBR sponge from Cosmax Material (531B), 
+Maker: Nippon Zeon NBR sponge( Cell type : Open Cell) 
+ASKER F HARDNESS 22 +/- 7 
+DENSITY 200g/L 
+Pore size AVERAGE 0.5mm 
+Color D- color ITEM NO. 
+Big Pore NBR Sponge (IMS) HS Code 9616.20-0000 
+Dimensions to fit our LaMer engine : D.49X8T 
+Weight : 1.7g
+**** DONE [#A] Investigate the root cause of NBR                :@Office:
+CLOSED: [2017-08-17 周四 15:14]
+- CLOSING NOTE [2017-08-17 周四 15:14] \\
+  DocHwan已经试验过YSL的尺寸比较小的样品，fill也有问题
+CLOCK: [2017-08-10 周四 15:27]--[2017-08-10 周四 15:57] =>  0:30
+***** DONE [#B] Check with Jespon about the airflow rate of NBR sponge :@Jespon:
+CLOSED: [2017-08-17 周四 15:46]
+***** DONE [#B] Get some Yukilon and Cosmax NBR samples to test in INOAC :@PkgLab:@Yukilon:@INOAC:
+CLOSED: [2017-09-01 周五 16:13]
+- CLOSING NOTE [2017-09-01 周五 16:13] \\
+  don't forget that INOAC's test nozzle is only a 20mm^2 one, too big
+***** DONE [#B] Check if the sponge is too big to fit with the engine :@Agenda:
+CLOSED: [2017-08-17 周四 15:47]
+- CLOSING NOTE [2017-08-17 周四 15:47] \\
+  Dochwan has already tested YSL smaller sponge
+
+**** DONE [#A] Investigate the NBR sponge process and have basic understanding of NBR properties
+CLOSED: [2017-08-15 周二 17:34] DEADLINE: <2017-08-16 周三> SCHEDULED: <2017-08-11 周五>
+- CLOSING NOTE [2017-08-15 周二 17:34] \\
+  最大的可能性是尺寸定的太大，是的NBR没有足够的空间膨胀
+CLOCK: [2017-08-15 周二 16:15]--[2017-08-15 周二 16:40] =>  0:25
+CLOCK: [2017-08-15 周二 15:54]--[2017-08-15 周二 15:55] =>  0:01
+CLOCK: [2017-08-15 周二 15:45]--[2017-08-15 周二 15:46] =>  0:01
+CLOCK: [2017-08-15 周二 14:45]--[2017-08-15 周二 14:56] =>  0:11
+CLOCK: [2017-08-15 周二 11:21]--[2017-08-15 周二 11:55] =>  0:34
+**** DONE [#A] Discuss with Jerry how can we be involved in the Cosmax NBR Case :@JerryShen:
+CLOSED: [2017-08-15 周二 10:53] SCHEDULED: <2017-08-15 周二>
+- CLOSING NOTE [2017-08-15 周二 10:53] \\
+  We need to be deeply involved and know the root cause
+**** DONE [#A] Ask DocHwan and Camilla to confirm the NBR specification
+CLOSED: [2017-08-02 周三 10:02] SCHEDULED: <2017-07-28 周五>
+- CLOSING NOTE [2017-08-02 周三 10:02] \\
+  Send email to DocHwan and Hiroshi-san
+
+**** DONE [#B] Hiroshi-san and DocHwan to advise what is the tested NBR from :@HiroshiHayashi:@DocHwan:
+CLOSED: [2017-08-30 周三 11:16] DEADLINE: <2017-08-31 周四>
+- CLOSING NOTE [2017-08-30 周三 11:16] \\
+  Hiroshi-san advised DocHwan said the fillable and not-fillable NBR are from the same batch and the AFR is similar to each other
+**** DONE Meeting on the NBR action plan
+CLOSED: [2017-09-13 周三 09:24] SCHEDULED: <2017-09-13 周三 08:30-09:30>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-13 周三 08:30]--[2017-09-13 周三 09:24] =>  0:54
+:END:
+*** weight loss issue on 139307 and 139308 on Blister             :ATTACH:
+:PROPERTIES:
+:Attachments: 955-43%20Cushion%20Compact%20Blister%20NBR%20Sponge.xls 955-45%20Cushion%20Compact%20Blister%20-%20MF%20Sponge.xls 139309%20weight%20loss%20(plastic).xls
+:ID:       4448aacf-80b5-4ce9-93ce-115f1799adea
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-08 周五 11:07] \\
+  - Bliss pack : bottom plastic(tray) – PE100(LDPE25/HDPE25+LDPE25/LDPE25) / PET500
+                 Lid film – PET16(Lami) / PET50 / AL6 / PET38 / PE easy peel30
+  - Cosmax 1st submission : bottom plastic(tray) – LLDPE40 / PET500
+  Lid film - PET25 / AL7 / PET25 / EPL50
+  - Cosmax next submission : bottom plastic(tray) – OPP40 / LLDPE100 / PET600 (This material is expected to arrive at Cosmax on September 15th)
+  Lid film - PET25 / AL7 / PET25 / EPL50
+- Note taken on [2017-09-06 周三 11:01] \\
+  Revised tare weight from 6.2 to 5.1, which make the % of weight loss much smaller.
+  - NBR: 8.7 ~ 11 % @ 50C
+  - MF: 7.8 ~ 13.8 % @ 50C
+CLOCK: [2017-09-06 周三 10:49]--[2017-09-06 周三 11:03] =>  0:14
+:END:
+**** DONE [#C] The weight number on 139307 and 308 is not correct
+CLOSED: [2017-09-04 周一 14:32] SCHEDULED: <2017-09-04 周一>
+:LOGBOOK:
+CLOCK: [2017-09-04 周一 14:30]--[2017-09-04 周一 14:30] =>  0:00
+:END:
+- The *net weight loss* is consistent and is comparable between NBR and MF
+- 139309 is the same test on Bliss pack's samples of Nutritious. The /Net Weight Loss Grams/ is comparable but % is lower due to high mass weight
+*** Meeting
+**** La Mer Cushion compact meeting on<2017-09-07 周四 08:30-09:30> :#Meeting:
+:LOGBOOK:
+CLOCK: [2017-09-07 周四 08:29]--[2017-09-07 周四 09:25] =>  0:56
+:END:
+***** Regroup of last night's call
+****** Goal of NBR
+******* Bring NBR to ELC level
+Use the same methology on PU and MF
+****** Action plan
+******* Request 500 pcs NBR
+******** Hiroshi-san and DocHwan to arrange samples
+******** Try to capture the pore size report
+******* Measure AFR and determin the spec base on AQL
+******** Dongwoo to check with Cosmax & S&P to check their test protocol and instrument
+******* Norio will check machine and discuss with Marta 
+***** Formula and filling parameter
+****** TSO to talk with Cosmax's technical team for viscosity and so on
+****** A conversation between Dochwan, Doug and Chris do not think viscosity is the root cause of failure of filling
+******* Suguru will contact Cosmax to re-check the failure
+******* High viscosity of trial 4 filled good, while lower viscosity failed in trial 3
+******* There is a clear statement that we do not know yet what make the failure on trial 3 on NBR
+***** Blist
+****** Per Dochwan, there is already Al layer in film, so W/L is from VF
+****** Change VF material more thicker
+******* Exiting: PE 40 + : thinner than Blispac
+******* Alternative: PET 300 + LDPE 100 : thicker than Blispac
+****** Alternative blister material will be available end of next week
+***** Cammila will leave La Mer for EL Re-Nutriv
+**** DONE Meeting about La Mer Cushion with ME, Cosmax
+CLOSED: [2017-09-15 周五 15:09] SCHEDULED: <2017-09-14 周四 08:30-09:00>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-14 周四 08:30]--[2017-09-14 周四 09:08] =>  0:38
+:END:
+***** Filling parameter was not documented during line trial 3 & 4
+***** Filling parameter was the same between 3 & 4
+***** Camilla is asking to update the Blisspac drawing
+***** NBR AFR
+Dochwan: We want to set up the specification of NBR before PO release
+Hiroshi-san will receive 200pcs NBR, he will test and divide it by 3 groups of AFR
+Cosmax will check with S&P whether they are able to check AFR
+AFR will be tested in NSI
+Hiroshi-san to advise how long it will take to test
+***** Cosmax to confirm how many wave engine they have
+***** Line trial 5 may take place in last week of Sept
+****** There is a argue about how many to do the line trial
+200pcs for there are onl 200 tested for AFR
+500pcs since we prepared 500pcs
+**** La Mer cushion compact - open issue <2017-09-19 周二 08:00-09:00>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 08:00]--[2017-09-19 周二 09:09] =>  1:09
+:END:
+**** Action plan - La Mer NBR Air Permeability <2017-09-20 周三 08:00-08:30>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-20 周三 08:02]--[2017-09-20 周三 08:42] =>  0:40
+:END:
+***** It's urgent that to send the NBR sponge
+Sponge Qty 350, Cosmax send 500pcs to Hiroshi-san [2017-09-19 周二]
+Hiroshi-san will take 500pcs to NSI
+We will only measure 350
+***** Frazer machine
+Jason is in charge of communication with machine supplier
+We may get the PO middle of Oct
+We cutting off the PO
+***** Hiroshi to get contact with Donwoo for S&P capability
+***** Go to production 1st week of Nov
+**** La Mer cushion compact - open issue <2017-09-26 周二 08:00-09:00>
+:LOGBOOK:
+CLOCK: [2017-09-26 周二 08:00]--[2017-09-26 周二 09:00] =>  1:00
+:END:
+**** La Mer Cushion NBR Sponge - Next Action <2017-09-27 周三 08:00-09:00>
+All talked about how to get the air flow machine
+NSI will regroup sponge to 3 groups and will advise data today
+
+** MAC Skin Harmony Cushion
+*** 100 pcs of INOAC PU and INOAC Vafter was requested.
+- [2017-06-15 周四]100pcs of INOAC PU will be shipped out to you by FedEx 810366242647.
+- [2017-06-29 周四]100pcs of INOAC Vafter from Lab
+** MAC Studio Perfect Cushion                                :@DerekBonham:
+:LOGBOOK:
+- Note taken on [2017-09-23 周六 22:22] \\
+  Hinge Breakage failed for there are chemical sunscreening with ABS compact
+:END:
+- Note taken on [2017-07-12 周三 07:59] \\
+  Project has been taken by Derek Bonham from MAC Packaging
+*** Preparing of KCC(Korean Cosmeceutical Test)
+| Components   | Description |  Qty | Response | Destination |
+|--------------+-------------+------+----------+-------------|
+| Engine       | Black(MYMJ) |      | Jennifer | EnuKyung    |
+| Compact Case | Black       |      | Jennifer |             |
+| MF Sponge    | PQV 6.7     | 1000 | Hiroshi  | DocHwan     |
+| Purity Seal  | Exiting     |      |          |             |
+Engine: Same as (MYMJ) - black engine and frame. @JenniferFoster has already ordered from HCT to be delivered to @EunKyung
+Compact case and Applicator is not needed for KCC stability
+Safety test need compact case and applicator.
+*** R&D Test
+| Test          | Samples needed          | Qty |
+|---------------+-------------------------+-----|
+| KCC Stability | Filled Engine           | 100 |
+| Safety in use | Full package            | 100 |
+| R&D Stability | Filled Engine           |  30 |
+| Clinical Test | Filled Engine with Puff |  50 |
+|               |                         |     |
+** MAC is looking onto the YingYang compact from Kolmar/TAP :@DerekBonham:@MAC:
+*** CANCELED [#A] Check with Jerry what can we do for the MAC big idea presentation
+CLOSED: [2017-09-25 周一 10:30] SCHEDULED: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 10:30]
+CLOCK: [2017-09-22 周五 10:48]--[2017-09-22 周五 10:48] =>  0:00
+:END:
+** TomFord Cushion
+*** Wave-1: Core Cushion
+**** OCD: Sept 2018
+**** Code: T6ER
+**** Est. Qty: 108 K
+**** Shades: 8 X
+**** Concept: A cushion with high coverage, flawless yet natural looking, semi-matte finish.
+**** Formula
+***** For speed to market, pick up corporate cushion 1.0 formula with completed OTC testing
+***** SPF 50 / PA++++
+**** Package
+***** Build up package on exiting HCT Wave Engine
+**** Manufacture
+***** NSI
+**** Meeting
+***** Meeting on 2017/5/25
+****** Nippon Time Line and Cost to be received based on approx. 3/20 components to 3rd Party Filler.  Would like to achieve a June 1, 2018 TSD and September 2018 OCD.  Timing/Costs due WK of 5/30 @Mangesh @Atsuko
+****** Launch Volume approx. 50-60 K
+****** China Registration Pieces will be needed off Line Trials-  Approx 60 pcs per shade based on net grams of 12. APAC region looking to go on counter 1 month after Global for October 18. - Anna
+****** Compact Time Line  available pending adjustments before can be shared with GBSC.  Updates due WK of 5/30 @AndreasPiteris @AllanHafkin
+******* Change Control will be required.  PKG to initiate with QA.  Update due first week of June @AndreasPiteris @AllanHafkin
+******* Artwork  due for Compact due first week of June.  Andreas to work with Creative to get file to send.  Will not route through Teamcenter @AndreasPiteris @AllanHafkin
+****** Marketing to approve final #PFA that was submitted - Caroline
+****** Bulletin to be posted by 9/1 - Emily
+****** Portal to be updated with compact/sponge refill and individual shaded refills- Emily
+*** Wave-2: Soleil Healthy Glow Cushion Compact SPF 50
+OCD: 11/5/18
+Code:
+Est. Qty: 96,300
+Concept: A multi-purpose hybrid cushion to be launched under SOLEIL with a unique overall glow and tone up positioning. 
+Formula
+For speed to market, pick up corporate cushion 1.0 formula with completed OTC testing
+SPF 50 / PA++++
+Package
+Building a TF compact around the current approved micro fiber sponge. 9MM, Microfiber can be 7mm. Yields 12 gram weight claim
+Applicator needs to come with the packaging and fit into the compact
+Provide feasibilities and timing: past due
+Investigating new applicator finish to wipe clean
+Manufacture
+Oevel to make formula and Cosmax to fill
+*** Wave-3: Core Cushion Compact upgrade
+OCD: Sep 19
+Code: T6EP
+Est Qty: 100K
+Concept: A cushion with unconventional matte finish that provides a glow from within look.
+Next generation formula that leverages APAC “luminous matte” trend. Lead by Yobuko with outside vendor. 
+Explore packaging upgrade.
+*** DONE [#A] Check with Elsa what is the complaint for in compact sponge :@ElsaLi:
+CLOSED: [2017-07-18 周二 15:17] SCHEDULED: <2017-07-17 周一>
+- CLOSING NOTE [2017-07-18 周二 15:17] \\
+  Elsa cannot find complaint record for Australia and New Zealand
+- Note taken on [2017-07-14 周五 10:01] \\
+  Get to know by <2017-07-12 周三>and need QA to advise details
+Please note we heard from Australia and New Zealand that there are QA issues with the EL applicator
+*** Meeting
+**** Tom Ford Cushion Compact PPD <2017-09-19 周二 20:30-21:00>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 20:30]--[2017-09-19 周二 20:53] =>  0:23
+:END:
+- Many brand is looking at the Kolmar's dual cushion and Stephan of EL brand want to make it exclusive for EL brand, so that TF may need to twist the design a little bit
+- PD need a clear direction of components supplier, since the turnkey buiz mold will limit PD's working with TPM
+- Time line wise, TF will later than EL
+- Another option is mesh/screen, which will be adopt any liquid formula underneath.
+**** Tom Ford Cushion Wave-1 <2017-09-26 周二 08:00-08:30>
+*** CANCELED [#B] Collect and share our mesh test data to Allan
+CLOSED: [2017-09-26 周二 14:52] SCHEDULED: <2017-09-20 周三>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:52]
+:END:
+* Compact
+** A pan-fill compact unit tool                                 :@ShyaHsin:
+*** Payment
+**** DONE [2017-07-03 周一] Check with Jerry if we can pay: Go with ERP, Pay by RMB
+**** DONE ShyaHsin to update RMB quotation
+DEADLINE: <2017-07-04 周二>
+- Note taken on [2017-07-04 周二 15:20] \\
+  The original RMB price is:
+  ring/inner ring，测试模模具费为RMB70,000
+  cup, 测试模模具费用为RMB35,000
+  total为RMB105,000
+  
+  Including VAT and 1000pcs more samples
+  ring/inner ring，测试模模具费为RMB85,410.00
+  cup, 测试模模具费用为RMB45,630.00
+  Total:RMB131,040.00
+**** DONE [#B] Aaron to create shopping cart in SAP
+DEADLINE: <2017-07-18 周二> SCHEDULED: <2017-07-04 周二>
+**** DONE [#C] SAP to convert the shopping cart to PO
+CLOSED: [2017-07-17 周一 15:15] DEADLINE: <2017-07-12 周三>
+- Note taken on [2017-07-05 周三 11:01] \\
+  System automatically approved for the small value
+**** DONE [#C] ShyaHsin to sign back PO
+CLOSED: [2017-07-31 周一 10:42] DEADLINE: <2017-07-21 周五>
+- CLOSING NOTE [2017-07-31 周一 10:42]
+** DONE [#C] Look into Yoshida's cushion compact 
+CLOSED: [2017-08-11 周五 14:28]
+- CLOSING NOTE [2017-08-11 周五 14:28] \\
+  The exiting air tight compact from Yoshida is YPH5-01-0031 and engine YPJ9010031
+CLOCK: [2017-08-11 周五 14:22]--[2017-08-11 周五 14:28] =>  0:06
+** HCT Compact - Alleged infringement of Byeon US Patent RE46305
+:LOGBOOK:
+- Note taken on [2017-09-06 周三 11:15] \\
+  Allan Hafkin is taking care of the test with HCT. 
+  It is confirmed that HCT has a proposal to eliminate the air vent and we have seen drawings but have yet to receive parts for testing. My best guess at this point is that we would be about 6 months out for implementation if indeed it does work. Allan Hafkin has been in discussions with HCT on this matter.
+:END:
+*** NEXT [#C] Take chance to talk with Jerry about the taking over of this by Allan :@JerryShen:@Agenda:
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** DONE [#C] Henry and Martin to advise their meeting with HCT's attorney :@HenryRenella:
+CLOSED: [2017-08-31 周四 10:18] DEADLINE: <2017-09-04 周一>
+- CLOSING NOTE [2017-08-31 周四 10:18] \\
+  According to Mark Schroeder (HCT’s patent counsel):  “[T]he product modification to remove the vent is going through qualification as I understand it.  Refinements were being made at last check on the mold cavities.  A next round of test results is expected in the next couple of days.”
+  
+  Mr. Schroeder also indicated that HCT is continuing to argue non-infringement as a defense to the allegations.
+  
+  I will keep you posted if I hear anything further on the legal end.
+*** DONE [#B] HCT to advise the test result of next round without venting groove :@HCT:
+CLOSED: [2017-09-06 周三 11:15] DEADLINE: <2017-09-07 周四>
+*** DONE [#B] Martin and HCT to advise their argue of non-infringement :@HCT:@MartinHaerter:
+CLOSED: [2017-09-06 周三 11:15] DEADLINE: <2017-10-01 周日>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+
+** DONE [#A] Discuss with Alex about the hinge breakage test for Cushion :@AlexYao:
+CLOSED: [2017-09-26 周二 13:49] SCHEDULED: <2017-09-26 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 13:49] \\
+  Talked with Alex about the test protocol of hinge breakage
+  - MAC studio Perfect: crack without any touch
+CLOCK: [2017-09-26 周二 13:40]--[2017-09-26 周二 13:49] =>  0:09
+:END:
+
+** WAIT [#B] Alex to discuss with Sherry and Sushil about their attitude of hinge breakage protocol :@AlexYao:
+DEADLINE: <2017-09-29 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+* Project Administration
+:LOGBOOK:
+CLOCK: [2017-09-11 周一 11:01]--[2017-09-11 周一 11:30] =>  0:29
+:END:
+** DONE [#C] Refile the emails in Cushion projects              :@Intranet:
+CLOSED: [2017-09-01 周五 16:30] SCHEDULED: <2017-08-31 周四 .+0d>
+:PROPERTIES:
+:LAST_REPEAT: [2017-08-30 周三 13:50]
+:END:      
+** DONE [#C] Check with Yolanda and Aaron for the Microsoft Team  :@Agenda:
+CLOSED: [2017-09-07 周四 16:04]
+** TODO [#B] How can I get more invovled to routine of Cushion projects
+SCHEDULED: <2017-10-09 Mon>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+
+* Cushion_3.0
+** DONE [#A] Take a serious look at the Cushion 3.0 PPT            :ATTACH:
+CLOSED: [2017-09-20 周三 16:18] SCHEDULED: <2017-09-13 周三>
+:PROPERTIES:
+:CATEGORY: Office
+:Attachments: CUSHION30CO-CREATION_Full%20Report_0719_FINAL.PDF CUSHION30CO-CREATION%202nd_Topline%20Report_ENG_0808.pdf CUSHION30CO-CREATION_Executive%20summary_0719_FINAL.PDF
+:ID:       58a2ccfa-b216-4abb-aad8-4c9b6981e7c1
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-20 周三 15:43]--[2017-09-20 周三 16:18] =>  0:35
+:END:
+** DONE [#A] Feedback to Agostinho about our position of teamwork :@AgostinhoMartins:
+CLOSED: [2017-09-26 周二 14:24] SCHEDULED: <2017-09-26 周二>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:24] \\
+  Agostinho will come to Shanghai for the Cushion 3.0 projects
+  He would like to leverage the 3D printer and SW workstation to produce the concept quickly
+CLOCK: [2017-09-26 周二 14:11]--[2017-09-26 周二 14:24] =>  0:13
+:END:
+* Meeting
+:LOGBOOK:
+CLOCK: [2017-09-07 周四 10:18]--[2017-09-07 周四 10:53] =>  0:35
+:END:
+** Weekly cushion call meeting on <2017-09-07 周四 10:15-10:45>  :#Meeting:
+*** Cushioin 3.0
+    Jane has talked with Rober Peterson and this will award to Davi and Agostino
+    They will have a meeting Friday night
+    And David & Agostino may fly to Shanghai for Cushion 3.0 Workshop at end of Sept
+*** Kolmar DW + Glow Cushion
+    There is a bulk issue and Jing's team is working with Melville TSO to address the issue
+    It seems a raw material issue
+*** Double Decker
+    Korea GSR is working on another proposal to give the mold to an ELC approved molder, if the weight loss test is approve
+    *Supplier relationship is very complex in this situation*
+    The molds are own by Cosmax and Shinhan together
+**** DONE [#A] Talked with Jerry, we will not say the seal coming from purity seal due to Jane's expertation 
+     CLOSED: [2017-09-07 周四 14:05]
+*** MF Usage test
+    Report has been ready and Jane has been to NY to show 
+*** Benchmark usage test of our own cushion vs competitors
+    We are not better and worse than our competitor
+    The MAC lightful cushion is lower than competitor, not sure why, since we are sharing formula between /Double Wear/ and /Cityblock/
+** Weekly cushion call meeting on <2017-09-14 周四 10:15-10:45>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-14 周四 10:15]--[2017-09-14 周四 11:01] =>  0:46
+- Note taken on [2017-09-14 周四 10:19] \\
+  Jane will not join since he is running late in NY's meeting
+:END:
+*** Double Decker
+**** Share what we did in Nutritious to Hyemin
+*** 2 in 1 packaging in Kolmar Korea
+**** Dochwan will lead to find alternative package
+**** Kolmar has the design patent on the package, and the manufacture is TAP
+***** Kolmar is concerning about we are chasing other package vendors
+**** Global package is asking for alternative design for all different vendors
+**** CL is fine with the current design
+**** MAC want to customize the shape
+**** TF is interested in the package, but David is has not touch base with them
+**** Can we use Samhwa for package supplier?
+***** Better to consult GSR / Cindy
+*** Nutritious
+**** In Korea market, they will pick only take pink shade?
+*** Jane's request to test Micro-fiber with some makeup artist
+**** How long will take? - At least 3 weeks.
+**** How many people? - 3: EL, CL, MAC
+**** Where we should get samples?
+**** We are planning to use La Mer formula for this test?
+Not sure, since it has not been in the market. Better to use Cushion 1.0 formula.
+***** Hyemin will reach out to Suguru-san for retain samples
+** Weekly Cushion Call <2017-09-21 周四 10:15-10:45>
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-21 周四 11:40]--[2017-09-21 周四 11:45] =>  0:05
+CLOCK: [2017-09-21 周四 10:13]--[2017-09-21 周四 10:57] =>  0:44
+:END:
+*** 2 in 1 Cushion - Kolmar
+Feedback from David that none brand reach out to components vendor for alternative package. CL is high interested in the idea, and Lorrance did not contact any supplier for alternative. CL GSR may contact some vendor for alternative.
+Anthony is negotiating a exclusive with Kolmar for EL brand and they cannot make the MOQ
+TSD of this program has been pushed out to Oct 2018
+*** Double Decker
+Hinge breakage concerns
+
+* Puff & Applicator
+:LOGBOOK:
+CLOCK: [2017-09-08 周五 14:37]--[2017-09-08 周五 14:38] =>  0:01
+:END:
+** NEXT [#B] Have a chance to talk with Dorothy about the Puff supplier
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+- Note taken on [2017-08-30 周三 10:58] \\
+  GSR is very sensitive to switch supplier from Taiki to others, even Penthouse.
+** WAIT [#C] Yolanda advise the usage experience of puffs     :@YolandaJin:
+DEADLINE: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** Smashbox Gel
+*** S-1/2/3
+
+#+DOWNLOADED: file:C%3A/Users/oque/Desktop/S123.png @ 2017-09-25 16:30:13
+[[file:Cushion/S123_2017-09-25_16-30-13.png]]
+*** Double side Rubycell
+*** Flock (3 options)
+
+#+DOWNLOADED: file:C%3A/Users/oque/Desktop/Flocking.png @ 2017-09-25 16:30:21
+[[file:Cushion/Flocking_2017-09-25_16-30-21.png]]
+** Gel + Rubycell[1/1]
+:LOGBOOK:
+CLOCK: [2017-09-08 周五 15:03]--[2017-09-08 周五 15:13] =>  0:10
+CLOCK: [2017-09-08 周五 14:38]--[2017-09-08 周五 14:40] =>  0:02
+:END:
+*** Jespon                                                       :@Jespon:
+- Have applied patent on the technology
+- Have shown this in France show and someone from Estee Lauder is showing interests on that.
+- The 2nd generation has more stable adhesive between rubycell and gel
+- The ribbon is still a problem now, easy to tear off.
+**** DONE [#B] Jespon to submit 80~100pcs Gel+Rubycell samples  :@Jespon:
+CLOSED: [2017-07-31 周一 10:41] DEADLINE: <2017-07-31 周一>
+- CLOSING NOTE [2017-07-31 周一 10:41] \\
+  Get samples
+- State "WAIT"    from ""           [2017-06-30 周五 09:57] \\
+  Send email to ask for samples from Lisa
+**** DONE [#A] Check with Jespon about detail material, process and test protocol of gel puff :@Jespon:
+CLOSED: [2017-07-25 周二 08:17] SCHEDULED: <2017-07-21 周五>
+- CLOSING NOTE [2017-07-25 周二 08:17] \\
+  Gel Puff的制作过程
+  - 在模具中放上TPU的膜，真空吸附使其贴合模具
+  - 注入AB组分的Silicon Gel，它会在一段时间以后部分固化
+  - 附上另一层膜，然后整版放在超音波机器上压合并模切
+  - 模切的边起到密封作用，留边越宽强度越好
+**** DONE [#B] Feedback to Jespon their puff has pass the test   :@Email:
+CLOSED: [2017-09-11 周一 11:54] SCHEDULED: <2017-09-08 周五>
+:LOGBOOK:
+- CLOSING NOTE [2017-09-11 周一 11:54] \\
+  send approval email
+:END:
+**** Call with Simon
+He want to know detail contact of Christine Kim
+Entered on [2017-08-28 周一 09:36]
+*** DONE [#B] Discuss with Jerry about the next step of this puff :@Agenda:@JerryShen:
+CLOSED: [2017-09-13 周三 14:24] SCHEDULED: <2017-09-12 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-13 周三 14:24] \\
+  Request HCT's samples
+  and show PD double side puff and HCT's samples
+:END:
+*** S&P World
+S&P World has already shown samples in US to David
+**** DONE [#B] DocHwan to confirm with S&P for Gel+Rubycell samples :@SPWorld:@DocHwan:
+CLOSED: [2017-07-14 周五 14:20]
+- CLOSING NOTE [2017-07-14 周五 14:20] \\
+  DocHwan list out 5 types of different puff
+- State "WAIT"    from ""           [2017-06-30 周五 10:01] \\
+  DocHwan will check with S&P for samples
+**** WAIT [#B] DocHwan to apply test or provide samples        :@DocHwan:
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** Test
+:LOGBOOK:
+- Note taken on [2017-09-08 周五 15:13] \\
+  Test is approved
+  One hint is the shade color is visible through gel since it go through the rubycell layer to the back side
+:END:
+**** Discuss with Alex about the test protocol with Bulk & NaOH. [2017-06-30 周五]
+Alex advise the NaOH protocol need to be reviewed by Marta and Sherri
+Send Jespon's test protocol to Alex
+**** DONE [#C] Alex to review the NaOH test protocol with US :@AlexYao:@MartaPazos:
+CLOSED: [2017-08-22 周二 15:34] DEADLINE: <2017-08-18 周五>
+- CLOSING NOTE [2017-08-22 周二 15:34] \\
+  no feedback from lab and MST team
+CLOCK: [2017-08-22 周二 15:33]--[2017-08-22 周二 15:34] =>  0:01
+- State "WAIT"    from ""           [2017-07-07 周五 10:05]
+
+**** DONE [#B] PTR 141476 for gel+rubycell puff with RKL2 Nutritious formula :@PTR:
+CLOSED: [2017-09-08 周五 15:12] DEADLINE: <2017-09-08 周五>
+- Note taken on [2017-08-11 周五 10:17] \\
+  Test started
+:LOGBOOK:
+CLOCK: [2017-09-08 周五 14:37]--[2017-09-08 周五 14:37] =>  0:00
+CLOCK: [2017-09-04 周一 10:11]--[2017-09-04 周一 10:18] =>  0:07
+:END:
+- Note taken on [2017-08-18 周五 20:39] \\
+  Check in lab for 1 week result and there is no cracking
+**** DONE [#B] PTR 141477 for gel+rubycell puff with ZJE0 Double Wear formula :@PTR:
+CLOSED: [2017-09-08 周五 15:12] DEADLINE: <2017-09-08 周五>
+- Note taken on [2017-08-11 周五 10:18] \\
+  Test started
+- Note taken on [2017-08-18 周五 20:40] \\
+  Check in lab for 1 week result and there is no cracking
+
+** Double side use puff
+:LOGBOOK:
+- Note taken on [2017-09-22 周五 09:48] \\
+  Usage of myself
+  1. The puff is too soft. It cause only the area around fingure can be press into sponge and get a good pickup.
+  2. There is no waterproof membrance between 2 layers of rubycell. Bulk can transfer from front to back
+CLOCK: [2017-09-22 周五 09:46]--[2017-09-22 周五 10:09] =>  0:23
+:END:
+Channel launched a new cushion with double side puff and a mesh+gel formula.
+There is a complaint from *poor seal* and *float purity seal label*.
+*** CANCELED [#C] Review with PD about this double side puff :@Agenda:@PD:
+CLOSED: [2017-09-25 周一 11:14] SCHEDULED: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 11:14] \\
+  Talked with Wen
+  They do not have a standard method to review those puff
+  The review was only basing on common sense
+CLOCK: [2017-09-21 周四 13:55]--[2017-09-21 周四 13:59] =>  0:04
+CLOCK: [2017-09-20 周三 16:44]--[2017-09-20 周三 16:47] =>  0:03
+:END:
+*** WAIT [#C] 5pcs @ 50C compatibility                              :@PTR:
+DEADLINE: <2017-10-20 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** DONE [#B] Check with Jespon whether they have double size puff :@Jespon:
+CLOSED: [2017-08-23 周三 16:25] DEADLINE: <2017-07-31 周一>
+- Note taken on [2017-07-25 周二 11:32] \\
+  send inquiry to Jespon by [2017-07-25 周二]
+- [X] Surface material? Rubycell or NBR?
+- [X] What about middle material? PU?
+- [X] Which material character make it easy to wash? or just a story from bulk?
+*** DONE [#B] Jespon to send the double size puff                :@Jespon:
+CLOSED: [2017-08-29 周二 14:13] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-08-29 周二 14:13] \\
+  Get puff
+CLOCK: [2017-08-29 周二 14:11]--[2017-08-29 周二 14:13] =>  0:02
+- Note taken on [2017-08-23 周三 16:25] \\
+  The Channel double side puff is a double side rubycell puff with PU in the middle
+  It seems they can use both side, but actually it's hard to use both for hygiene issue
+  And the puff is softe, too soft to press on the face
+*** DONE [#C] Send samples to test 
+CLOSED: [2017-09-22 周五 10:07] SCHEDULED: <2017-09-21 周四>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+** Finger print texture on Gel
+:LOGBOOK:
+- Note taken on [2017-09-15 周五 10:09] \\
+  Send a clarification to Suzy
+CLOCK: [2017-09-15 周五 09:32]--[2017-09-15 周五 10:09] =>  0:37
+:END:
+*** DONE [#C] Suzy's feedback about exclusivity of the *Photo Filter Gel Puff* :@SusanSeamon:
+CLOSED: [2017-09-18 周一 09:06] DEADLINE: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** DONE [#B] Show Jerry the finger print puff and dicuss about the evaluation of puff :@JerryShen:
+CLOSED: [2017-09-25 周一 14:51] SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 14:51]
+:END:
+*** DONE [#C] HCT West Coast office to send me 20pcs of grooved gel puff [[http://www.dhl.com/en/express/tracking.html?AWB=7202773756&brand=DHL][DHL#7202773756]] :@HCT:
+CLOSED: [2017-09-25 周一 13:59] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 13:59]
+:END:
+
+- Note taken on [2017-09-20 周三 09:38] \\
+**** shipped out per [[http://www.dhl.com/en/express/tracking.html?AWB=7202773756&brand=DHL][DHL#7202773756]]
+:END:
+*** DONE [#C] Suzy to instroduce me to Denis of HCT West    :@SusanSeamon:
+CLOSED: [2017-09-19 周二 07:48] DEADLINE: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-19 周二 07:48] \\
+  Suzy introduce me to Denis and Angle will send puff
+:END:
+** DONE [#C] Think about a method to review the puff samples within package :@Office:@YolandaJin:
+CLOSED: [2017-09-26 周二 14:56] SCHEDULED: <2017-09-25 周一>
+:PROPERTIES:
+:CATEGORY: Office
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:56] \\
+  give samples to Yolanda
+:END:
+** DONE [#C] Review with PD and Yolanda about the new ideas from Hiroshi-san :@HiroshiHayashi:
+CLOSED: [2017-09-25 周一 16:20] SCHEDULED: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 16:20] \\
+  Give the samples to Yolanda
+CLOCK: [2017-09-25 周一 11:33]--[2017-09-25 周一 13:18] =>  1:45
+:END:
+** DONE [#C] Hiroshi-san's samples of air puff via DHL [[http://www.dhl.com/cgi-bin/tracking.pl?AWB=4790125410][4790125410]] :@HiroshiHayashi:
+CLOSED: [2017-08-09 周三 09:47] DEADLINE: <2017-08-08 周二>
+- CLOSING NOTE [2017-08-09 周三 09:47] \\
+  Get samples
+** DONE [#A] Evaluate Jespon's sample and apply test in lab
+CLOSED: [2017-08-07 周一 13:50]
+- CLOSING NOTE [2017-08-07 周一 13:50] \\
+  Test applied in China test lab
+** DONE [#C] Jespon to submit airproof airpuff with softer feeling :@Jespon:
+CLOSED: [2017-08-23 周三 16:34] DEADLINE: <2017-08-03 周四>
+- CLOSING NOTE [2017-08-23 周三 16:34] \\
+  Feedback to Jespon that they've failed air cushio puff
+** DONE [#C] Ask for samples of HCT's finger print get from Susan Seamon
+CLOSED: [2017-09-14 周四 17:16] SCHEDULED: <2017-09-13 周三>
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-14 周四 17:16] \\
+  send email to Suzy
+CLOCK: [2017-09-14 周四 17:07]--[2017-09-14 周四 17:16] =>  0:09
+:END:
+* Sponge
+** Cross Brand Tests
+*** Package Test
+**** #PTR 138068: Corporate formula with INOAC Microfiber 0.03
+**** #PTR 138907: Corporate formula with INOAC Microfiber 0.03 with increased height of plaque
+**** #PTR 138933: Corporate formula with INOAC PU ESL2-X1
+**** #PTR 139438: Bobbi Brown Mist Cushion (EE6T) with INOAC PU ESL2-X1
+**** #PTR 139439: Bobbi Brown Mist Cushion (EE6T) with INOAC Microfiber
+**** Challenge test with line trial samples on [2017-06-08 周四]
+***** Test protocol
+- RT for 2 weeks
+- 10C-20C-30C-40C(1h each)-50C(6h)-40C-30C-20C(1h each)-10C(10h) X 4 Times
+- 50C for 2 weeks
+***** Pooling inspection – wiped the filled sponges with a puff and put the samples to 50C. After 2 weeks storage it could be seen that the samples after 2wks at 50C are comparable to the wiped samples.
+- Note taken on [2017-07-06 周四 14:08] \\
+  Which means the pooling on top of filled samples with be absorbed in a long term of period.
+*** Stability Test
+*** Micro Test
+- Note taken on [2017-07-06 周四 17:47] \\
+  Have a meeting with Jing's team 
+  - We will raise the concern to Jane next week
+  - Jing's team will test exiting PU, NBR sponge
+- Note taken on [2017-07-05 周三 13:26] \\
+  Get final result
+  R&D is highly recommend to add antimicrobial agent
+- Note taken on [2017-06-28 周三 13:26] \\
+  Get 1 week result.  The preliminary results are acceptable by week 1
+- Note taken on [2017-06-23 周五 13:25] \\
+  Get day-2 result of standard challenge test
+- Note taken on [2017-06-15 周四 13:25] \\
+  Send unused samples for micro test and distribute filled samples to colleague
+**** DONE [#A] Collect back the Nutritious samples I have share with office ladies :@Office:
+CLOSED: [2017-07-14 周五 16:37] DEADLINE: <2017-07-14 周五> 
+- CLOSING NOTE [2017-07-14 周五 16:37] \\
+  Collect 16pcs back to Carl
+- Note taken on [2017-07-12 周三 10:27] \\
+  There is juice and pooling out after usage per Ice
+  Kilin; Ice; Jacqueline; KuangLei;Ferry; Summer; Gonglei; Allison; Claire
+**** DONE Write a email to confirm Micro test result with Carl and Emma
+CLOSED: [2017-07-13 周四 13:35] SCHEDULED: <2017-07-13 周四>
+**** DONE [#A] R&D to advise the micro challenge test result 
+CLOSED: [2017-07-14 周五 10:06] DEADLINE: <2017-07-14 周五>
+- CLOSING NOTE [2017-07-14 周五 10:06] \\
+  Only Yukilon Grace NBR has inhibition zone, which indicate a anti-bacteria agent in side
+  All the others, including Taiki 330S, Cosmax NBR & PU, PNP PU, do not have inhibition zone
+**** DONE [#B] INOAC to send back the sterilized sponge          :@INOAC:
+CLOSED: [2017-07-31 周一 09:44] DEADLINE: <2017-07-31 周一>
+- CLOSING NOTE [2017-07-31 周一 09:44] \\
+  Get samples from INOAC
+- [X] DP0400M, D50
+- [X] PB0300+0800, D48
+- [X] BL4000+BL0800, D48
+**** DONE send MF sponges to INOAC for sterlization
+CLOSED: [2017-07-13 周四 13:52] SCHEDULED: <2017-07-13 周四>
+- CLOSING NOTE [2017-07-13 周四 13:52] \\
+  send samples to zhong liang
+**** DONE [#A] Apply PTR in RDS for the 0300M + 0801M with ETO Sterlization for package compatibility and fragrance stability :@PTR:
+CLOSED: [2017-08-03 周四 14:38] SCHEDULED: <2017-07-31 周一>
+- Note taken on [2017-08-03 周四 14:38] \\
+  140905
+**** WAIT [#A] PTR 141454 for sterilizaed sponge                   :@PTR:
+DEADLINE: <2017-10-09 周一 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-21 周四 10:02] \\
+  Weight Loss and Compatibility approved
+- Note taken on [2017-09-21 周四 10:01] \\
+  Fragrance samples send to NY 9/11
+CLOCK: [2017-09-21 周四 09:59]--[2017-09-21 周四 10:02] =>  0:03
+- Note taken on [2017-09-08 周五 13:32] \\
+  Fragrance samples send out
+- Note taken on [2017-09-04 周一 10:53] \\
+  Fragrance samples shipped
+- Note taken on [2017-08-31 周四 10:51] \\
+  Fragrance samples will be sent to Melville
+- Note taken on [2017-08-11 周五 10:49] \\
+  Test started
+CLOCK: [2017-08-31 周四 10:45]--[2017-08-31 周四 10:53] =>  0:08
+:END:
+**** DONE [#B] Suguru & Cosmax to advise the bulk batch# of line trial on [2017-06-08 周四]
+CLOSED: [2017-08-07 周一 11:11]
+- CLOSING NOTE [2017-08-07 周一 11:11] \\
+  Advised by Ricky
+** INOAC PU
+CLOCK: [2017-08-17 周四 15:51]--[2017-08-17 周四 16:02] =>  0:11
+INOAC UN-reticulated Polyether PU ESL2-X1(ZJE0010244).
+*** [2017-06-22 周四] Kolmar advise that there are flies and dirt on the sponge that provided for line trial.
+*** DONE 138933 approved                                            :@PTR:
+CLOSED: [2017-08-28 周一 15:49]
+*** INOAC PU quality issue (the sponge can be needle break by filling nozzle)
+:LOGBOOK:
+CLOCK: [2017-09-08 周五 14:01]--[2017-09-08 周五 14:19] =>  0:18
+CLOCK: [2017-09-08 周五 09:48]--[2017-09-08 周五 09:52] =>  0:04
+CLOCK: [2017-08-22 周二 14:57]--[2017-08-22 周二 15:13] =>  0:16
+CLOCK: [2017-08-22 周二 15:30]--[2017-08-22 周二 15:33] =>  0:03
+- Note taken on [2017-08-22 周二 14:56] \\
+  Email from Shinoda-san:
+  - Zama factory, no defect with same batch
+  - Tsukuba factory: 1.9% defect
+- Note taken on [2017-08-22 周二 14:51] \\
+  周六INOAC试验线重新发泡，发好以后分别使用PE包袱及不包袱并放在高温高湿的环境下熟化。发现:
+  1. 未包袱产品边缘可以100%扎破
+  2. 未包袱产品中心1/6扎破（可能那一个扎破的东西是在取样泡块的边缘）
+  3. 包袱产品扎不破
+  4. 0810批次（量产包袱）也扎不破
+- Note taken on [2017-08-21 周一 19:53] \\
+  KH feedback that he checked the failed pcs with PD after 2 days storage and there is no additional issue
+:END:
+**** DONE [#B] QA to advise the test fill result of 2 cartons of foaming batch# <2017-08-10 周四> :@QA:
+CLOSED: [2017-09-08 周五 09:49] DEADLINE: <2017-09-08 周五>
+:LOGBOOK:
+- CLOSING NOTE [2017-09-08 周五 09:49] \\
+  Shinoda-san confirmed the line trial of 2 cartons are good.
+:END:
+**** DONE [#B] Hellen to investiage the issue of retain samples of PTR 138933 :@PkgLab:@PTR:
+CLOSED: [2017-08-17 周四 14:48] DEADLINE: <2017-08-18 周五>
+- CLOSING NOTE [2017-08-17 周四 14:48] \\
+  no issue, cannot be punched
+- Note taken on [2017-08-17 周四 13:52] \\
+  found samples of [2017-03-14 周二]
+  filled with bulk and punch with pin, not punchable
+CLOCK: [2017-08-17 周四 13:29]--[2017-08-17 周四 14:16] =>  0:47
+**** DONE [#A] Visit lab with INOAC to fill samples      :@INOAC:@PkgLab:
+CLOSED: [2017-08-21 周一 19:50] SCHEDULED: <2017-08-18 周五 14:00>
+- CLOSING NOTE [2017-08-21 周一 19:50] \\
+  We filled the 5/24 foaming batch and 0707 foaming batch
+  - 0524 can be needle break will small needle
+  - 0707 can be needle break 2 of 6 with small needle
+  Per INOAC's explanation this is because of polymerizations which is impacted by humidity in the air
+CLOCK: [2017-08-18 周五 14:45]--[2017-08-18 周五 17:05] =>  2:20
+
+**** DONE [#A] Check with Jerry and KH about the sponge they checked with PD :@Agenda:@JerryShen:
+CLOSED: [2017-08-22 周二 10:44] SCHEDULED: <2017-08-22 周二>
+**** DONE [#A] Make a call with Zhongliang about his arrangement :@Call:@Zhongliang:
+CLOSED: [2017-08-22 周二 10:52] SCHEDULED: <2017-08-22 周二>
+**** DONE [#A] Arrange compatibility test for 0524 and 0707 sample :@PTR:
+CLOSED: [2017-08-22 周二 14:43] SCHEDULED: <2017-08-22 周二>
+**** DONE [#B] Apply PTR for the batch of 0524 and 0707            :@PTR:
+CLOSED: [2017-08-28 周一 15:53]
+CLOCK: [2017-08-28 周一 15:33]--[2017-08-28 周一 15:53] =>  0:20
+**** DONE [#A] Hellen to confirm the RT and 50C compatibility test for foaming batch of 054 and 0707 :@PTR:
+CLOSED: [2017-08-28 周一 15:53] DEADLINE: <2017-08-29 周二>
+**** DONE [#A] INOAC to make a connection between needle break and elongation (get more samples) :@INOAC:ATTACH:
+CLOSED: [2017-09-03 周日 10:48] DEADLINE: <2017-09-01 周五>
+:PROPERTIES:
+:Attachments: enlogation_at_break_and_compression_set_20170825.xlsx revised_spec_20170828.pdf
+:ID:       ec49200a-b5a0-4910-910c-3892cbaf242a
+:END:
+- CLOSING NOTE [2017-09-03 周日 10:48] \\
+  INOAC make 20pcs test and send picture by Wechat
+- Note taken on [2017-09-01 周五 10:25] \\
+  Send Wechat follow up
+- Note taken on [2017-08-28 周一 16:04] \\
+  Get data and they proposed as 150%
+CLOCK: [2017-08-28 周一 15:55]--[2017-08-28 周一 16:06] =>  0:11
+
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/1938636414.jpg @ 2017-09-08 14:10:18
+[[file:INOAC PU quality issue (the sponge can be needle break by filling nozzle)/1938636414_2017-09-08_14-10-18.jpg]]
+
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/127339925.jpg @ 2017-09-08 14:10:31
+[[file:INOAC PU quality issue (the sponge can be needle break by filling nozzle)/127339925_2017-09-08_14-10-31.jpg]]
+**** DONE [#B] Update spec of *ZJE0010244*                    :@Intranet:
+CLOSED: [2017-09-11 周一 13:59] SCHEDULED: <2017-09-11 周一>
+:PROPERTIES:
+:CATEGORY: PDS
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-11 周一 13:59] \\
+  specification updated
+- Note taken on [2017-09-11 周一 13:51] \\
+  dwg revision #6 approved in TC
+CLOCK: [2017-09-11 周一 13:33]--[2017-09-11 周一 13:59] =>  0:26
+:END:
+**** DONE [#C] INOAC to submit drawing with % of elongation at break :@INOAC:
+CLOSED: [2017-09-08 周五 15:24] DEADLINE: <2017-09-11 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+**** DONE [#B] Tell Tim to update spec of P4AJ sponge :@TimTobine:@Email:
+CLOSED: [2017-09-11 周一 14:06] SCHEDULED: <2017-09-11 周一>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-11 周一 14:06] \\
+  send the mail
+CLOCK: [2017-09-11 周一 14:03]--[2017-09-11 周一 14:06] =>  0:03
+:END:
+**** WAIT [#B] 141812 for production batch of 0524                 :@PTR:
+DEADLINE: <2017-10-09 周一 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-21 周四 15:03]--[2017-09-21 周四 15:13] =>  0:10
+:END:
+**** WAIT [#B] 141813 for production batch of 0707                 :@PTR:
+DEADLINE: <2017-10-09 周一 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+** INOAC Vafter
+*** Material
+- Daiwabo : Make fibers with PB-1 : PP = 1:1
+- Basell: Make special grade of PB-1
+- Evonik: Make 1-Buten
+*** Material Supply Issue Mitigation
+**** Communication
+***** I've got a chance to talk with Basell HK (APAC),  they said back in March 2017, Basell has proposed Daiwabo to use alternative PB0300M to maintain same elasticity performance of DP0400M on fiber, what they need to do is to add additive to solve the yellowish problem.  Could you please get the confirmation from Daiwabo if they try and can use PB0300M to replace DP0400M?  Do we need to do another compatibility test etc?  Basell APAC said they plan to start production for DP0400M only in Sept (tentatively) and have no stock from their distributors.  They are checking if they got any stock from the lab but even they have, quantity will not be large.  Just see if Daiwabo can change resin but provide same quality standard to us.  Please help to check or have Daiwabo to get more details from Basell APAC. :@DorothyWong:
+***** [2017-05-09 周二]: Evonik announced a force majeure to stop production of 1-Buten due to an explosion in the proximity of Evonik’s C4-plant at the Antwerp site on Sunday, May 7.
+**** Alternative Proposal
+***** Exiting: DP0400M
+***** Alternative Proposed by Basell: PB0300M blend with PB0801M
+Proposed by 2:1 to get MFI 15, but Daiwabo make a 7:3 blending for their own process. The theory MFI of 7:3 blending is 13.
+***** Another Alternative Proposed by Daiwabo: BL4000 : PB0801M = 7:3
+***** A test with NOX was done with proposed blending.
+Mitsui 04000 + Basell 0800: The most yellow
+Basell 0300 + Basell 0800: In the middle and close to Mitsui + Basell
+The original one (Basell 0400 M) is the most white option.
+***** Meeting with Basell about alternative resin
+****** The MSDS calls out ‘contains additives and stabilizers’ (see first snapshot below).We need to know what the additives and stabilizers are in each of these materials (current and alternate blend) and its concentration, to confirm whether identical / equivalent.
+******* Per Basell, even they are shown in different expressions, additives in all 3 resins are of the same kind of phenolic antioxidant with a level of approx. 500 ppm.
+******* Sushil is asking : phenolic anti-oxidant for reference, and confirm that the concentration is the same?
+****** Since the proposed version is a blend of PB0300M + PB0801M, we need to know the % (by weight) of each that will be blended to match the properties they expect to achieve that of the current DP0400M.
+******* In theory, it could be 66.7% PB0300M + 33.3% PB0801M. But the optimized % need to be determined by Daiwabo with more trails.
+******* Sushil is asking for  what the range of MFI would be expected of the blended materials
+****** As per the TDS, the current material (DP0400M) has a melt flow rate of 15, while the alternative material blend, i.e., PB0300M with PB0801M, has a melt flow rate of 4 and 200, respectively. We need to know how such drastically different melt flow rate materials can be blended homogeneously, as well as, once blended, what is the resulting stability in its fiber making process (melt blown) and melt flow rate of the blend.
+******* PB0300M and PB0801M have the same molecular structure with difference in molecular weight, so that they can be blend homogeneously. Molecular weight distribution of blending of PB0300M + PB0801M will be similar but a little bit wider than DP0400M, the difference is not so big to make unstable process. And even more, wider molecular weight distribution is better for fiber application per BASELL, that is the blending will have positive impact to fiber process.
+******* The TDS of alternative materials additionally call out certain properties that are not noted in the current material description. PB0801M is noted as being used as a processing modifier (internal lubricant), and PB0300M forms a 2 phase structure for easier release. Can Lyondellbasell clarify if these characteristics can affect the non-woven converting, product wetting, absorption and release characteristics compared to the current DP0400M material?
+******* Those are all call-outs for their designed applications. PB0801M is a low molecular weight PB-1 so that it was emphasized as processing modifier for its high MFI. All PB forms 2 phases (crystallized and amorphous) and PB0300M was emphasized for peelable film.
+**** Validation
+***** Package Test
+****** DONE [#B] #PTR 140905 to test alternative material of PB: blending of Basell PB0300M : Basell PB0801M = 7:3 :@PTR:
+CLOSED: [2017-08-07 周一 10:28] DEADLINE: <2017-07-28 周五>
+- CLOSING NOTE [2017-08-03 周四 16:15] \\
+  PB: blending of Basell PB0300M : Basell PB0801M = 7:3
+  Weightloss: APPROVED
+  Fragrance: 8/2/2017 - sent to China R&D.
+  Package compatibility:
+  1. condensation could be seen on all samples at 50C
+  2. there was no deformation, shrink or other issue on the sponges. And no fiber fracture occurred after wiped by puffs. BUT compared to the previous MF sponges, the elasticity was lower.
+- Note taken on [2017-07-21 周五 15:51] \\
+  And this blending is not so big condensation as BL4000
+- Note taken on [2017-06-30 周五 15:29] \\
+  Started
+****** DONE [#B] #PTR 140962 to test alternative material of PB: blending of Mitsui BL4000 : Basell PB0801M = 7:3 :@PTR:
+CLOSED: [2017-08-07 周一 10:26] DEADLINE: <2017-08-03 周四>
+- CLOSING NOTE [2017-08-03 周四 16:15] \\
+  PB: blending of Mitsui BL4000  : Basell PB0801M = 7:3
+  Weightloss: APPROVED
+  Fragrance: 8/2/2017 - sent to China R&D.
+  Package compatibility:
+  1. condensation could be seen on all samples at 40C & 50C
+  2. there was no deformation, shrink or other issue on the sponges. And no fiber fracture occurred after wiped by puffs. BUT compared to the previous MF sponges, the elasticity was lower.
+- Note taken on [2017-07-21 周五 15:51] \\
+  Get 2 weeks result and the condensation is big
+- Note taken on [2017-07-06 周四 15:31] \\
+  Started
+******* DONE Send BL4000 samples to Hellen 
+DEADLINE: <2017-07-04 周二>
+***** Line Trial
+****** DONE [#A] Cosmax to advise when we can schedule a line trial for 2 options of blending material :@Cosmax:
+CLOSED: [2017-07-10 周一 13:30]
+- CLOSING NOTE [2017-07-10 周一 13:30] \\
+  Hiroshi-san advised it will on <2017-07-17 周一>
+- State "WAIT"    from ""           [2017-07-06 周四 11:01] \\
+  Hiroshi-san to advise the actual number he can provide
+  Suguru-san to check with Cosmax about feasibility of their line
+  Jerry and I need to be on site for the final trial
+****** Cosmax advise the earlist date is [2017-07-25 周二] to get cushion filled
+******* DONE Hiroshi-san need to negosiate with Cosmax to bring line trial ahead :@Cosmax:@HiroshiHayashi:@SuguruIshikawa:
+CLOSED: [2017-07-12 周三 11:25] DEADLINE: <2017-07-11 周二>
+- CLOSING NOTE [2017-07-12 周三 11:25] \\
+  Seems we cannot make it in week of <2017-07-24 周一>
+****** Line Trail on [2017-07-25 周二]
+******* Only try the blending option of *PB0300M + PB0801M*
+******* Size: D48 X 9.7 (average thickness = 9.8)
+******** The thickness is very consistent and the to frame gap is very small before filling
+******* Blading
+1. Use a flat cylinder as blading and the surface effect is not good
+2. Use a small blading tool and there is a bulk cycle
+3. Use a longer blading tool and the bulk cycle can be hidden under frame
+******** WAIT [#C] Cosmax will make a even longer blading tool, bigger than sponge diameter, so there will be no bulk cycle.
+DEADLINE: <2017-10-20 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+******* Compression
+The sponge can be compressed by filling nozzle, so that the filling nozzle stroke will need to be adjust carefully
+******** If too deep, the gap to frame will be big
+******** If too small compression, the bulk will float on top of surface
+******** The final result of compression is *97.2*
+******* Filling ability
+******** Cosmax advise that this blending is more easier for them to fill, that is it's easy to remove blank area on sponge.
+********* NEXT [#C] May be it's the surface energy that make the sponge easy to fill
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+******* PD review
+******** I will hand carry 50pcs to Shanghai to Wen
+******** DONE [#A] Jerry to show samples to Wen get PD review samples.
+CLOSED: [2017-08-02 周三 16:11] SCHEDULED: <2017-07-27 周四>
+- Note taken on [2017-07-25 周二 16:02] \\
+  We are not expecting to get an 'approval' from PD but just comments
+  We tried to make the best aesthetic and show what gap we have to PD
+******* We used up all bulk, which is allocated from Blisspac.
+******** All are peach shade
+******** No bulk available in Cosmax now and we stop line trial by 2PM
+**** DONE [#A] Re-validate the height of MF sponge in Cosmax    :@Cosmax:
+CLOSED: [2017-07-25 周二 11:29] SCHEDULED: <2017-07-25 周二>
+- CLOSING NOTE [2017-07-25 周二 11:29] \\
+  The height of sponge will be compressed by filling nozzle and the compressed height is really depends on the compression stroke.
+  But if we press less, there will be floating bulk on top of sponge
+  So we need to make a balance
+  *Since PD will not be able to say approval directly, we will make samples with the best surface we can and show the gap to PD*
+**** DONE [#A] Emily and Wen show us the pad print of line trial samples :@ZhuWen:
+CLOSED: [2017-08-09 周三 09:37] DEADLINE: <2017-08-03 周四>
+- CLOSING NOTE [2017-08-09 周三 09:37] \\
+  PD has made the pad and there is no big difference
+  and they also made a pad by flip over the sponge
+*** Consumer Panels test
+- Note taken on [2017-07-12 周三 10:30] \\
+  From clinique return test samples:
+  There is juice and pooling out on top of sponge after usage.Which we should take into consideration.
+- Note taken on [2017-07-10 周一 11:06] \\
+  So far so good from Jane
+*** Process
+INOAC Tohoku Factory: Make Non-woven product with fibers
+**** Sterlization
+R&D have Micro test done and the standard challenge test is ok, but they are concerning about the risk during storage and tranportation. Suggest for anti-bacteria or sterilation before filling.
+**** DONE [#C] INOAC CHINA to advise when should I send a carton of MF sponge for sterlization
+CLOSED: [2017-07-13 周四 09:58] DEADLINE: <2017-07-13 周四> 
+- CLOSING NOTE [2017-07-13 周四 09:58] \\
+  I can send samples and it will happen in this month
+- State "WAIT"    from "TODO"       [2017-07-06 周四 17:08] \\
+  INOAC will make the deluxe samples in Shanghai this month and will have a chance to do sterliation within in July
+*** Specification
+**** Deluxe Samples
+Diameter: 32+/- 0.5 mm
+Thickness: 9.7 +/- 0.5 mm
+Density: 0.04 +/- 10% g/cm^3
+Weight: Calculated: 0.258~ 0.372; Recommendation: 0.27 ~ 0.37 g (by ration to Saleable=.267~.356)
+The above was calculated by same percentage of range as saleable.
+**** Saleable
+Diameter: 48 +/- 0.5 mm
+Thickness: 9.7 +/- 0.5 mm
+Density: 0.04 +/- 10% g/cm^3
+Weight: Calculated: 0.587 ~ 0.829; Recommendation: 0.6 ~ 0.8 g
+PD’s approval last time was basing on hand feeling, which we can get the 25% CFD from same batch as 8.24 ~ 12.98 N. But in that batch of CFD test, weight range is only 0.61 ~ 0.78 g, while the worst case calculate with 9.7 +/- 0.5 is 0.587 ~ 0.829 g. We think we need to tighten the range, since 0.587 ~ 0.829 cannot guarantee a density variation of +/- 10%.
+So I’m thinking if we can have a negotiation with INOAC to set a range between 0.622 ~ 0.796 (convert from 0.61 ~ 0.78 of 9.5mmt to 9.7mmt) and 0.578 ~ 0.829. How do you think about 0.6 ~ 0.8g? From your data for latest run, it will be 96%+ yield rate with this specification. Pls let me know your thoughts about that. Thanks!
+**** Packout
+Bulk pack samples were inspected and 7 out of 30 pcs was found for damaged edged. So a layer packout is recommended.
+**** DONE [#A] To final approve the drawing and specification of Saleable and Deluxe samples of INOAC Vafter
+CLOSED: [2017-07-07 周五 14:56] SCHEDULED: <2017-06-29 周四>
+:PROPERTIES:
+:END:
+- Note taken on [2017-07-10 周一 16:38] \\
+  Hiroshi-san has already update the speicification 
+  With Daiwabo PP on the specification
+:PROPERTIES:
+:ORDERED:  t
+:END:
+- [X] The round of footprint is not round but a oval.
+- [X] There should be a diameter symbol in the begining of diameter dimension. 
+***** DONE Rayon to uplaod the updated drawing to TC       :@Teamcenter:
+***** DONE Hiroshi-san to approve spec in system       :@HiroshiHayashi:
+DEADLINE: <2017-07-04 周二>
+***** DONE Hiroshi-san to let us know the spec has been key in :@HiroshiHayashi:
+DEADLINE: <2017-07-05 周三>
+**** DONE [#B] Hiroshi-san to advise the 25% CFD and lightfastness of different blending :@HiroshiHayashi:
+CLOSED: [2017-07-12 周三 11:25] DEADLINE: <2017-07-05 周三>
+- CLOSING NOTE [2017-07-12 周三 11:25] \\
+  Hiroshi-san has shared all test result to team
+*** Cost & Delivery
+**** WRP 75 K (15K / Day *5 days)
+For warm up, INOAC can only commit 10 K / Day
+**** Cost
+***** Code# RWC2010242 - Saleable  - Nutritious CC Micro Fiber Inner Sponge
+29.71 JPY/each, FOB Tokyo, EMQ = 100 Kpcs (same price break up to 1 MM pcs)
+***** Code# RYM3010242 - Deluxe sampler, Nutritious CC, Micro Fiber Inner Sponge
+23.5 JPY/each, FOB Tokyo, EMQ = 100K pcs (for Launch)
+***** Die & cut tooling – JPY150,000 (Saleable) and JPY70,000 (Deluxe Sampler)
+EL MKT approved above costs, PO will be placed to Inoac within this week.   Also, there is an ATB for resin DP0400M to Inoac / Daiwabo to secure July production run at Basell EU – JPY 800 x 2000Kg = JPY1.6MM.
+***** Cost Breakdown
+Sponge
+**** Forecast
+***** Nutritious saleable: 356 Kpcs
+- 8/21: 100K
+- 8/21: 90K
+- 9/1: 100K
+- 10/2: 40K
+- 10/25: 26K
+***** Nutritious Deluxe samples: 219 Kpcs
+- 8/2: 134 K
+- 8/23: 85 K
+***** Next 12 Month                                       :@DorothyWong:
+| New Launch                                      | Formula        | Formula Maker                     | Sponge          | OTC/None | Global 12m Vol | TSD     |
+|-------------------------------------------------+----------------+-----------------------------------+-----------------+----------+----------------+---------|
+| EL DW Luminous Matte Cushion Compact MU SPF     | NEW            | Cosmax                            | INOAC-MF        | Yes      | 849K           | Oct-18  |
+| EL FAB Cushion + Solid Foundation Double Decker | NEW            | Cushion @ Oevle; Hotpour @ Cosmax | INOAC-MF        | Yes      | 183K           | June-18 |
+| EL Nutritious                                   | In house - new | Oevel                             | INOAC-MF        | Yes      | 545K           | Nov-17  |
+| EL RN 2.0                                       | New            | Oevel                             | INOAC-MF        | Yes      | 77K            | Oct-18  |
+| LaMer Skincolor Cushion                         | Cosmax         | Cosmax                            | NBR or INOAC MF | Yes      | 157K           | Feb-18  |
+| MAC Skin Harmony                                | Cosmax         | Cosmax                            | TBD             | Yes      | 300K           | Jan-20  |
+| MAC Studio Fix                                  | Cosmax         | Cosmax                            | TBD             | Yes      | 323K           | Jun-19  |
+| MAC Studio Perfect                              | Cosmax         | Cosmax                            | INOAC-MF        | Yes      | 400K           | TBC     |
+| TF Soleil Healthy Glow Cushion                  | Cosmax         | Oevel                             | INOAC-MF        | Yes      | 98K            | Dec-18  |
+|-------------------------------------------------+----------------+-----------------------------------+-----------------+----------+----------------+---------|
+| Total                                           |                |                                   |                 |          | 2932K          |         |
+***** DONE Discuss with Jerry about GSR's question about the contiunous working of BL4000 :@JerryShen:@HiroshiHayashi:
+DEADLINE: <2017-07-05 周三> SCHEDULED: <2017-07-05 周三>
+*** Trial
+**** [2017-06-14 周三]at INOAC Tohoku Factory
+- Daiwabo make mistake with less surfactant so that there is much more statistic on the PB/PP fiber 
+- We must write the oil (surfactant) level to specification and make sure it's right on mass production per Henry
+- Additional oil was sent to INOAC to spray manually onto fiber to make samples
+***** Output
+****** DONE Samples of thickness around or even more than 10.0mm. 40pcs of samples was sent to me and we need tot hose samples for min gap to frame
+CLOSED: [2017-06-20 周二 10:30]
+- CLOSING NOTE [2017-06-20 周二 10:30]
+****** Deluxe samples size: 2,500pcs will be sent to Blisspac and 500pcs will be sent to Cosmax :@Blisspack:@Cosmax:
+****** 7mm Sponge: Not enough fiber to make samples. 100pcs of 7.5mm samples will be sent to me
+****** Samples
+- Total Production:    11,520 pcs
+  - Total Reject:         1,294 pcs (11.2%)
+    - Rejected by Aspect:         211 pcs
+    - Under 0.610 (NG this time):     5 pcs
+    - Over 0.788 (NG this time):   1,078 pcs
+  - Total OK:           10,226 pcs
+    - 0.610 - 0.669g:        391 pcs (3.8%)
+    - 0.670 - 0.760g:       7,735 pcs (75.7%)
+    - 0.761 - 0.788g:       2,100 pcs (20.5%)
+*** Deluxe samples
+**** Both Blisspac and 3AC have overflow issue with MF sponge.
+**** CANCELED [#C] Follow up with Hiroshi-san about the filling of Deluxe samples
+CLOSED: [2017-09-25 周一 14:03]
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 14:03]
+:END:
+*** CANCELED [#C] Check with Jerry about the line trial of Cushion in Japan :@JerryShen:
+CLOSED: [2017-09-25 周一 10:40] SCHEDULED: <2017-09-12 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 10:40]
+:END:
+*** DONE [#B] Hiroshi-san to advise the yield rate of INOAC/DAIWABO for Dorothy to confirm the resin availability with Basell :@HiroshiHayashi:
+CLOSED: [2017-08-28 周一 11:14] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-08-28 周一 11:14] \\
+  The yield rate of DP0400M is actaully 80% per Daiwabo
+*** Cushion update meeting within package internal
+**** 2 differnt materials of blending
+***** Cosmax already received 1200pcs of each option
+***** Who's going to approve INOAC to start up? Need Dorothy to confirm
+***** If we postpone the production, can we still keep the ship date?
+***** PB0300M + PB0801M
+***** BL0400M + PB0801M
+**** Paper work for changing the raw material
+***** We have both original version and blended version on the spec
+****** How to distinguish original resin version and blended version
+******* By lot number
+****** Why we keep original & blended
+******* The blended is more soft
+******* A little more pick up
+Entered on [2017-07-18 周二 09:01]
+** Meeting
+*** Meeting with @HenryRenella 2017/2/22
+- Micro Fiber
+  - Status of Line Trials. (When and the purpose)
+    - When is the new equipment arriving at Inoac? (Do we need to qualify?)
+    - Latest samples showed a “saturated carpet” look. This was not reported in previous trials. Has something changed? Can this be eliminated by changing filling parameters?
+    - There is a thought that we may be being too critical on what we are requiring from an aesthetic standpoint.  Compared to original PU standards, how do these look? I know we have ranges so we need to determine if these are acceptable for launch with the agreement for continuous improvement. How do we accomplish this?
+  - It has been suggested that we have Inoac do a 100% inspection and they have quoted at nearly 4 times the original quote. We cannot live with this. How do we eliminate this inspection but still ensure acceptable parts?
+- PU Sponge- The same question on being too critical applies here. There is pushback on the smoothing process and the $.017 charge.
+- How do non-wiped samples look? Are they comparable to original standards?
+- How do we identify ranges for Brands/Product Development review and approval?
+- How long before we can automate?
+** Microfiber Rollout
+*** WAIT [#C] Marta to review and approve the RDP form       :@MartaPazos:
+DEADLINE: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-08 周五 14:24] \\
+  Send Taiki's MSDS to Marta as well
+- Note taken on [2017-09-08 周五 10:08] \\
+  Reply to Marta about the reason for RDP form
+  and ask for her opinon about Taiki's PET fiber
+CLOCK: [2017-09-08 周五 09:59]--[2017-09-08 周五 10:12] =>  0:13
+:END:
+**** The material to make HCT Wave engine is
+***** Mix of *HDPE Lotte 2200* and *LDPE Hanwha 7635* /per/ specification
+Entered on [2017-08-29 周二 13:44]
+****** We can only find *HDPE Lotte 2200J*
+****** We can only find *LLDPE Hanwha 7635*
+******* Hanwha was facilitated by *Total*
+*** WAIT [#C] Marta's opnion on Taiki's Liquid Tank with ZJE0 formula :@MartaPazos:
+DEADLINE: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+*** TODO [#B] Make MF Rollout line trial in NSI
+:PROPERTIES:
+:CATEGORY: Someday
+:END:
+*** TODO [#A] Give Henry a monthly update about the MF rollout :@HenryRenella:@JerryShen:
+SCHEDULED: <2017-10-12 周四 .+1m>
+:PROPERTIES:
+:CATEGORY: Email
+:LAST_REPEAT: [2017-09-12 周二 14:10]
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-12 周二 14:10] \\
+  Send email to Jerry
+CLOCK: [2017-09-12 周二 13:58]--[2017-09-12 周二 14:10] =>  0:12
+CLOCK: [2017-09-12 周二 13:24]--[2017-09-12 周二 13:47] =>  0:23
+:END:
+*** DONE [#B] PTR 140745: Corporate formula (ZJE0) with Taiki Liquid Tank :@PTR:
+CLOSED: [2017-09-08 周五 15:20] DEADLINE: <2017-09-08 周五>
+- Note taken on [2017-08-02 周三 15:28] \\
+  Get sponge from Taiki and forward to Hellen
+- Note taken on [2017-06-28 周三 10:43] \\
+  Hiroshi-san is preparing to order it
+- Note taken on [2017-06-20 周二 10:43] \\
+  Lab asked Hiroshi-san to prepare
+- State "WAIT"    from ""           [2017-06-16 周五 10:42] \\
+  Apply test
+*** DONE [#B] PTR 140747: BobbiBrown Mist Cushion (EE6T) with Taiki Liquid Tank :@PTR:
+CLOSED: [2017-09-08 周五 15:20] DEADLINE: <2017-09-08 周五>
+- Note taken on [2017-08-02 周三 15:29] \\
+  Get sponge from Taiki and forward to Hellen
+- Note taken on [2017-06-28 周三 10:49] \\
+  Hiroshi-san is preparing to order it
+- Note taken on [2017-06-20 周二 10:48] \\
+  Ask Hiroshi-san to prepare bulk
+- State "WAIT"    from ""           [2017-06-16 周五 10:50] \\
+  test applied
+*** DONE [#B] Check MSDS of Taiki's Liquid Tank            :@Taiki:ATTACH:
+CLOSED: [2017-09-08 周五 14:23] SCHEDULED: <2017-09-08 周五>
+:PROPERTIES:
+:Attachments: taiki_liquid_tank_msds.pdf
+:ID:       fec3721e-73f7-4608-95b8-a56399680119
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-08 周五 14:23] \\
+  as attached
+CLOCK: [2017-09-08 周五 14:19]--[2017-09-08 周五 14:23] =>  0:04
+:END:
+*** DONE [#A] Fill the RDP form                                  :@Office:
+CLOSED: [2017-08-29 周二 14:02] SCHEDULED: <2017-08-29 周二>
+- CLOSING NOTE [2017-08-29 周二 14:02] \\
+  Fill and send form to Marta
+CLOCK: [2017-08-29 周二 13:33]--[2017-08-29 周二 14:02] =>  0:29
+CLOCK: [2017-08-28 周一 16:12]--[2017-08-28 周一 16:34] =>  0:22
+
+*** As Suguru-san confirmed the auto smoothing can only be installed by Nov 2017
+Entered on [2017-08-28 周一 09:31]
+*** DONE [#B] Marta to confirm how to input the sponge information :@MartaPazos:
+CLOSED: [2017-08-28 周一 10:21] DEADLINE: <2017-08-25 周五>
+*** DONE [#A] Find out the previous RDP form and check with Marta about filling
+CLOSED: [2017-08-23 周三 16:22]
+CLOCK: [2017-08-23 周三 16:08]--[2017-08-23 周三 16:22] =>  0:14
+*** DONE [#B] Microfiber usage result review                    :@Meeting:
+CLOSED: [2017-08-23 周三 16:39] SCHEDULED: <2017-08-23 周三 14:30>
+CLOCK: [2017-08-23 周三 14:30]--[2017-08-23 周三 16:00] =>  1:30
+*** DONE [#B] Check with Jerry if I need to write the RDP request :@JerryShen:
+CLOSED: [2017-08-22 周二 10:04] SCHEDULED: <2017-08-21 周一>
+- CLOSING NOTE [2017-08-22 周二 10:04] \\
+  Yes, we need to initiate the RDP form
+*** DONE [#A] Meeting with DongWoo                  :@ShinDongWoo:@Agenda:
+CLOSED: [2017-08-11 周五 13:36]
+- CLOSING NOTE [2017-08-11 周五 13:36] \\
+  QA want to eliminate their incoming inspection @ TPM for certified supplier
+CLOCK: [2017-08-11 周五 11:10]--[2017-08-11 周五 11:36] =>  0:26
+*** DONE [#A] Make a summary of MF Rollout                       :@Office:
+CLOSED: [2017-08-11 周五 14:49] SCHEDULED: <2017-08-11 周五>
+CLOCK: [2017-08-11 周五 15:13]--[2017-08-11 周五 15:22] =>  0:09
+- CLOSING NOTE [2017-08-11 周五 14:49] \\
+  Send summary to Jerry
+CLOCK: [2017-08-11 周五 14:40]--[2017-08-11 周五 14:49] =>  0:09
+CLOCK: [2017-08-11 周五 14:29]--[2017-08-11 周五 14:30] =>  0:01
+CLOCK: [2017-08-11 周五 13:45]--[2017-08-11 周五 14:22] =>  0:37
+*** CANCELED [#B] PTR 140748: MAC Matchmaster (MYMJ) with INOAC Vafter :@PTR:ARCHIVE:
+CLOSED: [2017-07-12 周三 14:22]
+- CLOSING NOTE [2017-07-12 周三 14:22] \\
+  Product discontinued
+- Note taken on [2017-06-28 周三 10:49] \\
+  Hiroshi-san is preparing to order it
+- Note taken on [2017-06-20 周二 10:48] \\
+  Ask Hiroshi-san to prepare bulk
+- State "WAIT"    from ""           [2017-07-07 周五 10:51] \\
+  Test applied
+
+*** DONE [#C] Cancel the test for MYMJ
+CLOSED: [2017-07-12 周三 14:29] SCHEDULED: <2017-07-12 周三>
+*** CANCELED [#B] PTR 140746: MAC Matchmaster (MYMJ) with Taiki Liquid Tank :@PTR:ARCHIVE:
+CLOSED: [2017-07-11 周二 21:31]
+- CLOSING NOTE [2017-07-11 周二 21:31] \\
+  Product discontinued
+- Note taken on [2017-07-11 周二 15:18] \\
+  Hiroshi-san cannot find any bulk for Matchmaster in NSI
+  Asking help from Carl
+- Note taken on [2017-06-28 周三 10:49] \\
+  Hiroshi-san is preparing to order it
+- Note taken on [2017-06-20 周二 10:48] \\
+  Ask Hiroshi-san to prepare bulk
+- State "WAIT"    from ""           [2017-06-16 周五 10:48] \\
+  Test applied
+**** DONE Jennifer to advise if MAC Matchmaster (MYMJ)Cushion has been discontinued :@JenniferFoster:
+CLOSED: [2017-07-11 周二 21:31]
+- CLOSING NOTE [2017-07-11 周二 21:31] \\
+  Jennifer confirmed this product has been discontinued
+
+*** DONE [#B] Confirm with Hellen about the final result of 140745  :@PTR:
+CLOSED: [2017-09-12 周二 14:30] SCHEDULED: <2017-09-12 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-12 周二 14:30] \\
+  2 points from lab
+  - Aesthetically, the Taiki Liquid Tank is more rough and we can see layers section from top of sponge
+  - It's easy to pin though between layers
+:END:
+ 
+ [[file:c:/Users/oque/Documents/Software/emacs/files/category.org::*Give%20Henry%20a%20monthly%20update%20about%20the%20MF%20rollout][Give Henry a monthly update about the MF rollout]]
+*** DONE [#A] Discuss with Jerry about when to share the Taiki's MF option to Hyemin & Yobuko :@JerryShen:
+CLOSED: [2017-09-20 周三 09:57] SCHEDULED: <2017-09-19 周二>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-20 周三 09:57] \\
+  we will not share to Hyemin and Yobuko without a confidence of Taiki's process
+:END:
+** Patent
+*** Kolmar signed a contract with Amore Pacific to pay loyalty fee :@Kolmar:
+Kolmar is using both ester and ether PU. And these are common sponges used in the Korea market. However so far they have not used NBR. And besides, They do not have their own sponge options. - @DocHwan
+1. Kolmar has signed off contract with Amore regarding cushion production. 
+2. Contract is mainly to use Amore patented 100% ether based PU sponge. In this case, Kolmar pays 3% vs. Amore cushion retail price per single sponge as loyalty. 
+3. Contract doesn’t include any term which specify Kolmar should not produce/deliver any cushion to the clients like Estee Lauder, Chanel, L’Oreal, LVMH etc. 
+4. Amore is aware that Kolmar is producing BB cushion to Estee Lauder. And Amore didn’t consider this as breach of a contract as this is not contracted term. Also this isn’t an issue from business relationship point of view
+5. It is considered that Kolmar can produce ELC cushion without any legal issue. 
+** Taiki Liquid Tank                                               :@Taiki:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 13:51]--[2017-09-19 周二 14:13] =>  0:22
+CLOCK: [2017-09-06 周三 13:41]--[2017-09-06 周三 14:43] =>  1:02
+CLOCK: [2017-09-05 周二 20:17]--[2017-09-05 周二 20:21] =>  0:04
+CLOCK: [2017-09-05 周二 11:38]--[2017-09-05 周二 13:36] =>  1:58
+CLOCK: [2017-08-18 周五 10:44]--[2017-08-18 周五 10:46] =>  0:02
+:END:
+*** PD Review
+:PROPERTIES:
+:ORDERED:  t
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-19 周二 13:50]--[2017-09-19 周二 13:51] =>  0:01
+:END:
+**** CANCELED [#B] Emily to review the filling samples of DW and Nu :@PD:
+CLOSED: [2017-09-18 周一 11:36] DEADLINE: <2017-09-13 周三 -0d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-07 周四 15:30] \\
+  she need to review with Wen
+:END:
+**** DONE [#B] Lab to fill 5pcs of Nutritious formula              :@PTR:
+CLOSED: [2017-09-19 周二 14:07] DEADLINE: <2017-09-22 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-19 周二 14:07] \\
+  got samples
+:END:
+**** DONE [#B] Send a notification about what to review with samples to Wen :@PD:
+CLOSED: [2017-09-19 周二 14:07]
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+**** WAIT [#B] Wend and Emily to review the 5 pcs samples           :@PD:
+DEADLINE: <2017-10-12 周四>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-29 周五 09:55]--[2017-09-29 周五 09:56] =>  0:01
+:END:
+*** Meeting
+**** DONE Internal Discussion with GSR about our MF strategy between Taiki and INOAC :@DorothyWong:@BruceDeng:
+CLOSED: [2017-09-08 周五 11:12] SCHEDULED: <2017-09-07 周四 14:30-15:00>
+:LOGBOOK:
+CLOCK: [2017-09-07 周四 14:31]--[2017-09-07 周四 15:01] =>  0:30
+:END:
+*** Specification:
+**** Density: 130, 180, 240 g/m^2
+180g was commonly used in Taiki's factory and have a very low MOQ (about tens of thousands). 240g is not commonly used and there is a MOQ of 280K.
+We tried 180g at the early stage and there is a delamination issue. After that we asked for 240g samples. It looks better, but need further test.
+*** Taiki's Process
+:LOGBOOK:
+- Note taken on [2017-09-26 周二 14:09] \\
+  Taiki US also advise they can only walk thru the process via presentation
+:END:
+**** WAIT [#B] Dorothy to check whether we have request cost from Taiki about the Liquid Tank :@DorothyWong:
+DEADLINE: <2017-10-10 周二>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:08] \\
+  Taiki US is also advise they will walk thru us the process through presentation
+:END:
+**** WAIT [#A] Dorothy to confirm with Taiki HQ about their attitude of disclose the Liquid Tank process :@DorothyWong:@Taiki:
+DEADLINE: <2017-10-10 周二 -1d>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-11 周一 13:29] \\
+  Dorothy wrote a mail to Isabelle of Taiki US, and so far, there is no feedback.
+- Note taken on [2017-09-11 周一 11:49] \\
+  Send follow up mail to Dorothy
+:END:
+**** NEXT [#C] Take a chance to visit Taiki's factory to see the process of Liquid Tanks and Hi-Cellbian :@Taiki:#Travel:
+SCHEDULED: <2017-10-10 周二 -1d> 
+:PROPERTIES:
+:CATEGORY: Errand
+:END:
+:LOGBOOK:
+- Note taken on [2017-09-11 周一 17:11] \\
+  Talked to Jerry about my trip to Taiki Yingkou
+  Waiting for Dorothy's confirmation to send message to Taiki SH
+- Note taken on [2017-09-07 周四 16:03] \\
+  Dorothy and Clare will visit their Yingkou factory about Oct 9th
+:END:
+***** DONE [#C] Send a message to Taiki SH that I will visit their Yingkou factory early Oct
+CLOSED: [2017-09-12 周二 09:45] DEADLINE: <2017-09-22 周五> SCHEDULED: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-12 周二 09:45] \\
+  Send message
+:END:
+***** DONE [#B] Summer to confirm our trip on Oct 10th          :@Taiki:
+CLOSED: [2017-09-15 周五 14:26] DEADLINE: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-15 周五 14:26] \\
+  Get summer's confirmation
+CLOCK: [2017-09-15 周五 14:04]--[2017-09-15 周五 14:26] =>  0:22
+CLOCK: [2017-09-15 周五 13:45]--[2017-09-15 周五 13:49] =>  0:04
+:END:
+***** DONE [#B] Book flights and hotel for Yingkou trip
+CLOSED: [2017-09-25 周一 14:03]
+:PROPERTIES:
+:CATEGORY: Intranet
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-25 周一 14:03]
+CLOCK: [2017-09-15 周五 14:26]--[2017-09-15 周五 14:43] =>  0:17
+:END:
+****** DONE [#B] Flight quotation                                :@HRG:
+CLOSED: [2017-09-15 周五 14:42] DEADLINE: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-15 周五 14:42] \\
+  Oct 10th, MU5623 上海-大连   CNY692 
+  Oct 11th, MU5616 营口-上海 CNY882
+:END:
+****** DONE [#B] Jerry's approval of travel request        :@JerryShen:
+CLOSED: [2017-09-15 周五 15:11] DEADLINE: <2017-09-15 周五>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+****** DONE [#B] Ctrip's hotel confirmation                    :@Ctrip:
+CLOSED: [2017-09-15 周五 15:13] DEADLINE: <2017-09-18 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+**** DONE [#B] Write email to Dorothy, have she check with Taiki's HQ about the attitude :@DorothyWong:
+CLOSED: [2017-09-06 周三 14:40] SCHEDULED: <2017-09-06 周三>
+**** DONE [#B] Have Dorothy check if there is direct buy account for Taiki Shanghai :@DorothyWong:
+CLOSED: [2017-09-06 周三 14:41] SCHEDULED: <2017-09-06 周三>
+:LOGBOOK:
+- CLOSING NOTE [2017-09-06 周三 14:41] \\
+  There is no direct buy account for Taiki SH
+  Taiki USA's direct buy account: SAP # 10000991
+  Taiki SH's indirect buy account: SAP # 10112506
+:END:
+**** DONE [#B] Summer to confirm if we can visit their material supplier end of Aug :@Taiki:
+CLOSED: [2017-09-05 周二 20:16] DEADLINE: <2017-08-22 周二>
+- CLOSING NOTE [2017-09-05 周二 20:16] \\
+  summer confirmed we cannot visit the material supplier
+- Note taken on [2017-08-29 周二 14:16] \\
+  Send a email to follow up
+**** DONE [#A] Summer to double confirm the material of sponge
+CLOSED: [2017-08-22 周二 14:44] DEADLINE: <2017-08-22 周二>
+- CLOSING NOTE [2017-08-22 周二 14:44] \\
+  have summer's email confirmed as PET
+**** DONE [#A] Taiki to advise why liquid tank was shown as Polyester on PPT but PP on test form :@Taiki:
+CLOSED: [2017-08-17 周四 14:17] DEADLINE: <2017-08-18 周五>
+- CLOSING NOTE [2017-08-17 周四 14:17] \\
+  Summer confirmed it's PET
+**** DONE [#A] Call Summer to clarify the specification of their liquid tank sponge :@Taiki:
+CLOSED: [2017-08-14 周一 11:18] SCHEDULED: <2017-08-14 周一>
+- Note taken on [2017-08-14 周一 11:17] \\
+  summer is following up with their Japan office about the material information
+  Summer will check with their Japan headquarter about the visit to material supplier
+CLOCK: [2017-08-14 周一 11:17]--[2017-08-14 周一 11:18] =>  0:01
+- Note taken on [2017-08-11 周五 15:04] \\
+  if there is still not positive feedback, I need to write a email to Hiroshi-san.
+**** DONE [#C] Taiki to advise more detail specification of thier T-engine :@Taiki:
+CLOSED: [2017-08-14 周一 13:24] DEADLINE: <2017-08-04 周五>
+- CLOSING NOTE [2017-08-14 周一 13:24] \\
+  convert to another task
+- Note taken on [2017-08-07 周一 10:24] \\
+  Check in with Summer, they are checking internally whether they can share those detail information to us.
+*** Lab Test
+**** DONE [#B] Taiki to submit 220pcs samples for test           :@Taiki:
+CLOSED: [2017-08-02 周三 16:47] DEADLINE: <2017-07-21 周五>
+- CLOSING NOTE [2017-08-02 周三 16:47] \\
+  Samples received [2017-08-02 周三]
+- Note taken on [2017-07-10 周一 15:59] \\
+  Confirm with Taiki 11mm is our choice
+**** DONE [#B] Samples from different size to fit with WAVE Engine :@Taiki:
+CLOSED: [2017-07-10 周一 15:53] SCHEDULED: <2017-06-23 周五> DEADLINE: <2017-07-10 周一>
+- CLOSING NOTE [2017-07-10 周一 15:53] \\
+  11mm fit well, a little bit touch frame
+  10mm, same as INOAC MF, big gap
+  12mm, too much touch to frame and potential risk to have bulk on label.
+  Chose 11mm
+- Note taken on [2017-07-10 周一 11:12] \\
+  Tracking #: EMS 1099937819724
+*** CANCELED [#A] Give feedback to Taiki US about the process of our development and encourage them to let us visit the process
+CLOSED: [2017-09-26 周二 14:07] SCHEDULED: <2017-09-26 周二>
+:PROPERTIES:
+:CATEGORY: Email
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-26 周二 14:07]
+:END:
+** NBR
+*** Yukilon NBR
+**** DONE [#B] Test fill the NBR sponge with bulk when go to lab :@PkgLab:
+CLOSED: [2017-09-13 周三 14:22] SCHEDULED: <2017-09-13 周三>
+:PROPERTIES:
+:CATEGORY: Errand
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-13 周三 14:22] \\
+  filled
+CLOCK: [2017-09-13 周三 14:12]--[2017-09-13 周三 14:22] =>  0:10
+:END:
+Filled with Nutritious and Re-Nutriv bulk, it seems eary to fill
+
+#+DOWNLOADED: file:C%3A/Users/oque/Downloads/725852302.jpg @ 2017-09-13 14:21:52
+[[file:Cushion/725852302_2017-09-13_14-21-52.jpg]]
+** Teibow Fiber (Lancome's)                                       :@Teibow:
+- Note taken on [2017-07-12 周三 08:05] \\
+    Get contact from David.B that we have already signed NDA with them and get samples shared with ELC
+*** DONE [#B] Review with Jerry about the Teibow sample :@Agenda:@JerryShen:
+CLOSED: [2017-09-06 周三 15:25] SCHEDULED: <2017-09-06 周三>
+:LOGBOOK:
+- CLOSING NOTE [2017-09-06 周三 15:25] \\
+  Mostly like what Lancome Blanc Expert Low Coverage using
+CLOCK: [2017-09-06 周三 15:11]--[2017-09-06 周三 15:25] =>  0:14
+:END:
+*** DONE [#C] Hiroshi-san to contact Teibow get more detail information back :@HiroshiHayashi:
+CLOSED: [2017-09-04 周一 16:01] DEADLINE: <2017-09-01 周五>
+*** DONE [#B] Hiroshi-san to send samples of Teibow's material :@HiroshiHayashi:
+CLOSED: [2017-09-05 周二 20:19] DEADLINE: <2017-09-05 周二>
+- CLOSING NOTE [2017-09-05 周二 20:19] \\
+  get sample
+*** WAIT [#C] Hiroshi-san and Teibow to provide sponge in our size :@HiroshiHayashi:@Teibow:
+DEADLINE: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: WaitFor
+:END:
+** DONE [#B] Double check the sponge material of Lancome Blanc Expert SPF30/PA++ :@Office:
+CLOSED: [2017-08-28 周一 11:04] SCHEDULED: <2017-08-28 周一>
+CLOCK: [2017-08-28 周一 11:09]--[2017-08-28 周一 11:10] =>  0:01
+- CLOSING NOTE [2017-08-28 周一 11:04] \\
+  Cut a piece from the sponge and checked:
+  1. the formula can be easily removed by alcohol
+  2. the cut piece can float on top of water
+  3. the cut piece drawn in alcohol
+CLOCK: [2017-08-28 周一 10:52]--[2017-08-28 周一 11:04] =>  0:12
+** DONE [#B] Gina to send the picture of Lancome Blanc Expert Cushion Light coverage SPF 29/PA+++ :@GinaGuo:
+CLOSED: [2017-09-01 周五 10:29] DEADLINE: <2017-08-28 周一>
+- CLOSING NOTE [2017-09-01 周五 10:29] \\
+  Send picture from Wechat and the sponge is NBR
+** DONE [#A] Check with PD about the sponge of	Lancome cushion upgrade :@Agenda:@PD:
+CLOSED: [2017-09-05 周二 11:37] DEADLINE: <2017-09-05 周二>
+- CLOSING NOTE [2017-09-05 周二 11:37] \\
+  seems no improvement on sponge
+:LOGBOOK:
+CLOCK: [2017-09-05 周二 11:26]--[2017-09-05 周二 11:37] =>  0:11
+CLOCK: [2017-08-28 周一 11:15]--[2017-08-28 周一 11:33] =>  0:18
+CLOCK: [2017-08-31 周四 10:36]--[2017-08-31 周四 10:39] =>  0:03
+CLOCK: [2017-08-31 周四 10:42]--[2017-08-31 周四 10:44] =>  0:02
+:END:
+- Note taken on [2017-08-31 周四 10:43] \\
+  Emily and Wen is out for biz travel in Japan
+- Note taken on [2017-08-28 周一 11:16] \\
+  Wen and Emily is not in office
+** NEXT [#B] Keep tracking MS&T's cushion test for data of PET material :@PTR:
+SCHEDULED: <2017-10-09 周一>
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+* Trend
+** DONE [#C] Discuss with Jerry about Shiseido's new whitening cushion and what is the next step for us
+CLOSED: [2017-09-04 周一 11:38] SCHEDULED: <2017-09-04 周一>
+** DONE [#B] Check with PD about the Shiseido's Cushion samples :@PD:@Agenda:
+CLOSED: [2017-09-05 周二 11:38] SCHEDULED: <2017-09-04 周一>
+- CLOSING NOTE [2017-09-05 周二 11:38] \\
+  seems to be Taiki's option of 180 g/cm^2
+** DONE [#B] From the case of Hana AHC, what is our attitude to the co-development with supplier :@Agenda:@JerryShen:
+CLOSED: [2017-09-18 周一 17:03]
+:PROPERTIES:
+:CATEGORY: Agenda
+:END:
+:LOGBOOK:
+- CLOSING NOTE [2017-09-18 周一 17:03] \\
+  We will show the question on Robert's presentation
+:END:
+*** Take chance to discuss with Jerry about AHC has just launched the Serum Compact from Hana
+** CL is testing the NSI stock formula with INOAC MF not Liquid Tank per Kilin <2017-09-01 周五>
+   
